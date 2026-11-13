@@ -3,5 +3,5 @@
     "versionName":  "0.4.2",
     "apkUrl":  "https://raw.githubusercontent.com/drbaum-minecraft/Minigame-Hub-Updates/main/Minigame-Hub-v0.4.2.apk",
     "sha256":  "571fa5c39d238acf84b031682394b2ef26eab44621e8b7ccfd55ff7be0779b30",
-    "notes":  "Minigame Hub 0.4.2: optimierte Oberflaeche, stabilere Spiele und Updates ohne Neuinstallation bei gleicher App-Signatur."
+    "notes":  "v0.4.2: Online-Lobby erstellen und beitreten ohne Serveradresse. Automatische Vermittlung ueber den oeffentlichen PeerJS-Dienst. WebRTC-P2P noch als Vorschau: Ein vollstaendiger Zwei-Geraete- und Mobilfunk-Test steht aus; externe Dienste koennen ausfallen."
 }
