@@ -1,7 +1,7 @@
 {
-    "versionCode":  9,
-    "versionName":  "0.3.6",
-    "apkUrl":  "https://raw.githubusercontent.com/drbaum-minecraft/Minigame-Hub-Updates/main/Minigame-Hub-v0.3.6.apk",
-    "sha256":  "0200153e3278e4e034c299a8f68c651b9e864f24451b859a1e697042b3a377e6",
-    "notes":  "Minigame Hub 0.3.6: Kompakte Spieleauswahl, Singleplayer mit Bot-Einstellungen, Best of 3/5, bessere Bots, Hoch- und Querformat fuer Handy und Tablet, neue Designs und Verbesserungen."
+    "versionCode":  13,
+    "versionName":  "0.3.10",
+    "apkUrl":  "https://raw.githubusercontent.com/drbaum-minecraft/Minigame-Hub-Updates/main/Minigame-Hub-v0.3.10.apk",
+    "sha256":  "57de84bb6a0de161302a9ea6a4fd33afdf977f3d74031fe36bd579eda9736496",
+    "notes":  "Minigame Hub 0.3.10: optimierte OberflÃ¤che, stabilere Spiele und Updates ohne Neuinstallation bei gleicher App-Signatur."
 }
