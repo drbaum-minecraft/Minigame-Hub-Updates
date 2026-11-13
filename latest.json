@@ -1,0 +1,7 @@
+{
+  "apkUrl": "https://github.com/drbaum-minecraft/Minigame-Hub-Updates/releases/download/v0.2.0/Minigame-Hub-v0.2.0.apk",
+  "versionCode": 2,
+  "sha256": "f28ac5c28c32afc2376b914906df2c99f0d045fca0f04c0c31b0718a2349b641",
+  "versionName": "0.2.0",
+  "notes": "- Neue kompakte Spieleübersicht als Hauptmenü mit sechs Kacheln\r\n- Maßgeschneiderte Vektor-Spielicons: Tic Tac Toe, Vier gewinnt,\r\n  Schere Stein Papier, Memory, Schiffe versenken, Reaktionsduell\r\n- Spielauswahl führt zu separatem Modus-Menü statt direkt ins Spiel\r\n- Spielbare Tic-Tac-Toe-Bots und Host-Optionen mit Schwierigkeitsgrad und Timer\r\n- Geplante Spiele klar als noch nicht verfügbar markiert\r\n- Zusätzlicher Update-Tab: Versionsprüfung, sicherer APK-Download, SHA-256- und\r\n  Android-Signaturprüfung, System-Installer und öffentlicher HTTPS-Feed\r\n- Updateprüfung beim App-Start und Hinweis im Hauptmenü bei neuer Version\r\n- Dauerhafter Release-Signierschlüssel lokal erzeugt und signierte v0.2.0-APK gebaut\r\n- Gastprofil, Fortschritt, Designs und Spieleinstellungen bleiben bei gleich signierten Updates erhalten"
+}
