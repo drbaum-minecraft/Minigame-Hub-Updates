@@ -3,5 +3,5 @@
     "versionName":  "0.4.1",
     "apkUrl":  "https://raw.githubusercontent.com/drbaum-minecraft/Minigame-Hub-Updates/main/Minigame-Hub-v0.4.1.apk",
     "sha256":  "86fd5c6379ece368f7db34ba8b92eb68f90edf266bec8d007b2c506e0afa2749",
-    "notes":  "Minigame Hub 0.4.1: optimierte Oberflaeche, stabilere Spiele und Updates ohne Neuinstallation bei gleicher App-Signatur."
+    "notes":  "Schere, Stein, Papier als zweites Spiel: Zufallsbot, lokales Pass-and-Play und Online-P2P-Vorschau; Best of 1, 3 oder 5, XP fuer eigene Siege ohne neue Freischaltungen. Fuer Online-Spiel ist weiterhin ein WSS-Signalisierungsserver erforderlich; der Zwei-Geraete-P2P-Test ist noch nicht abgeschlossen."
 }
