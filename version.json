@@ -1,7 +1,7 @@
 {
     "version":  "0.4.0",
     "apk_url":  "https://raw.githubusercontent.com/drbaum-minecraft/Minigame-Hub-Updates/main/Minigame-Hub-v0.4.0.apk",
-    "notes":  "Minigame Hub 0.4.0: optimierte Oberflaeche, stabilere Spiele und Updates ohne Neuinstallation bei gleicher App-Signatur.",
+    "notes":  "Multiplayer-Vorschau: Tic Tac Toe mit Online-Lobbycodes und WebRTC-P2P, Match-Zugsynchronisierung, Best of 1/3/5. Noch kein oeffentlicher WSS-Signalisierungsserver eingerichtet; echte Online-Verbindungen nicht abschliessend getestet. Singleplayer und lokales Spielen weiterhin verfuegbar.",
     "versionCode":  14,
     "sha256":  "bc1bcda18e77e508005ac006954b74352d0e3e27a04180f4e0238f7ae7d32f3a"
 }
