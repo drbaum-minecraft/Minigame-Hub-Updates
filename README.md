@@ -1,5 +1,7 @@
-# Minigame Hub Updates
+# Minigame Hub â€“ Android APK Downloads
 
-Signierte Android-APKs und Versionshinweise findest du unter [Releases](https://github.com/drbaum-minecraft/Minigame-Hub-Updates/releases).
+Neueste signierte APK: [Minigame Hub v0.3.6](https://raw.githubusercontent.com/drbaum-minecraft/Minigame-Hub-Updates/main/Minigame-Hub-v0.3.6.apk)
 
-Die App liest den öffentlichen HTTPS-Updatefeed [latest.json](https://raw.githubusercontent.com/drbaum-minecraft/Minigame-Hub-Updates/main/latest.json).
+- [Aktuelle Updates fÃ¼r Version 0.2.0 (latest.json)](latest.json)
+- [Aktuelle Updates fÃ¼r Version 0.3.6 (version.json)](version.json)
+- Quellcode bleibt im privaten Repository.
