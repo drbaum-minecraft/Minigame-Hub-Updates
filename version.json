@@ -1,7 +1,7 @@
 {
-    "version":  "0.4.4",
-    "apk_url":  "https://raw.githubusercontent.com/drbaum-minecraft/Minigame-Hub-Updates/main/Minigame-Hub-v0.4.4.apk",
-    "notes":  "v0.4.4: Neue Erststart-Auswahl zwischen Account-Vorschau und Gast. Lokale Gaeste bekommen dauerhafte zufaellige IDs und Gastnamen statt Gast01. XP und vorhandene Profile bleiben erhalten. Google-Anmeldung, Cloud-Spielstand und Online-Freundschaften sind noch NICHT verfuegbar und werden als Vorschau gekennzeichnet.",
-    "versionCode":  18,
-    "sha256":  "cb0164c355cb5b8ba33ae1c39085fc4092da1031e1b9a23049aa53c6c66d1a23"
+    "version":  "0.5.0-rc1",
+    "apk_url":  "https://raw.githubusercontent.com/drbaum-minecraft/Minigame-Hub-Updates/main/Minigame-Hub-v0.5.0-rc1.apk",
+    "notes":  "TESTVERSION v0.5.0-rc1: Google-Login, Firebase-Spark-Profile, Cloud-XP und Online-Freunde zum Testen. Bestehende Gastdaten bleiben erhalten. WICHTIG: Google-Anmeldung, App Check und Zwei-Geraete-Synchronisierung wurden noch nicht auf echten Android-Geraeten bestaetigt. Diese Vorabversion kann Fehler enthalten. Die Installation erfordert eine Android-Bestaetigung.",
+    "versionCode":  19,
+    "sha256":  "859afb5c446a89c7b07a1c0b4a40a1236e77fae8d7ab0c3936258d86dd63cf6f"
 }
