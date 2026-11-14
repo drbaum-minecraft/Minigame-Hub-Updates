@@ -1,7 +1,7 @@
 {
-    "versionCode":  17,
-    "versionName":  "0.4.3",
-    "apkUrl":  "https://raw.githubusercontent.com/drbaum-minecraft/Minigame-Hub-Updates/main/Minigame-Hub-v0.4.3.apk",
-    "sha256":  "d00b187cf8dfe6b682a355106963eadd692a7780dd043878719cf0f6a445250b",
-    "notes":  "v0.4.3: Fehler Broken pipe beim Online-Multiplayer behoben. WebRTC-Verbindungsdaten gebuendelt uebertragen. Lobby-Beitritt und direkter Datenaustausch im Android-End-to-End-Test erfolgreich. Test zwischen zwei echten Handys in verschiedenen Netzen noch offen."
+    "versionCode":  18,
+    "versionName":  "0.4.4",
+    "apkUrl":  "https://raw.githubusercontent.com/drbaum-minecraft/Minigame-Hub-Updates/main/Minigame-Hub-v0.4.4.apk",
+    "sha256":  "cb0164c355cb5b8ba33ae1c39085fc4092da1031e1b9a23049aa53c6c66d1a23",
+    "notes":  "Minigame Hub 0.4.4: optimierte Oberflaeche, stabilere Spiele und Updates ohne Neuinstallation bei gleicher App-Signatur."
 }
