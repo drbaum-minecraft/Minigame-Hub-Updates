@@ -1,7 +1,7 @@
 {
-    "version":  "0.5.0.3-rc5",
-    "apk_url":  "https://raw.githubusercontent.com/drbaum-minecraft/Minigame-Hub-Updates/main/Minigame-Hub-v0.5.0.3-rc5.apk",
-    "notes":  "TESTUPDATE v0.5.0.3-rc5 (Build 23): Google-Anmeldung mit alternativem Kontowaehler, eigenes Google-Profilbild und Anzeigename, nur Tic Tac Toe und Schere-Stein-Papier in der Spielauswahl. Gastdaten bleiben erhalten. Google-Login, App Check und Cloud-Sync auf echten Geraeten weiter zu pruefen; keine stabile v0.5.0-Freigabe.",
-    "versionCode":  23,
-    "sha256":  "528aa6b5eab417b89e7052a506996370b89f9fc8be88e0fac0ec511a366d1e5d"
+    "version":  "0.5.0.4-rc6",
+    "apk_url":  "https://raw.githubusercontent.com/drbaum-minecraft/Minigame-Hub-Updates/main/Minigame-Hub-v0.5.0.4-rc6.apk",
+    "notes":  "TESTUPDATE v0.5.0.4-rc6 (Build 24): Theme-Auswahl wechselt die Farben sofort, ohne dabei Launcher-Komponenten im Vordergrund umzuschalten; App-Icon-Aktualisierung wird bis zum Verlassen der App vorgemerkt; Android 13+ schaltet Launcher-Komponenten atomar um; Kompakte Abstaende, Profil-Kopfzeile, Navigation, Theme-Karten und Spielauswahl fuer schmale Displays angepasst; Neue Unit-Tests fuer Icon-Komponenten und responsives Kartenlayout. RC-Testversion: Google-Login und App Check auf echten Geraeten weiterhin in Pruefung.",
+    "versionCode":  24,
+    "sha256":  "7a3b3389eafe46d80d2c8802ae4279fb20a699b69d4b6fcf70aa0656802bd6f0"
 }
