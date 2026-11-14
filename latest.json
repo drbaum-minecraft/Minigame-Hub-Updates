@@ -1,7 +1,7 @@
 {
-    "versionCode":  21,
-    "versionName":  "0.5.0.1-rc3",
-    "apkUrl":  "https://raw.githubusercontent.com/drbaum-minecraft/Minigame-Hub-Updates/main/Minigame-Hub-v0.5.0.1-rc3.apk",
-    "sha256":  "60b65c004b3b33f60b4e8bf72c97fe76dbc376d6a8e9657bfc6699c7502a889f",
-    "notes":  "TESTUPDATE v0.5.0.1-rc3: Google-Login-Button mit offiziellem Google-Auswahlfenster und Fallback bei fehlenden Anmeldedaten. Korrigierte Update-Erkennung fuer rc1, Konto- und Gastfortschritt getrennt. Testphase: Anmeldung/App Check/Cloud-Sync auf echten Geraeten noch nicht abschliessend bestaetigt. Installation erfolgt nach deiner Android-Bestaetigung."
+    "versionCode":  22,
+    "versionName":  "0.5.0.2-rc4",
+    "apkUrl":  "https://raw.githubusercontent.com/drbaum-minecraft/Minigame-Hub-Updates/main/Minigame-Hub-v0.5.0.2-rc4.apk",
+    "sha256":  "06e648286821ecd7405cec4197281998fc6dce4e6773e9192fa6f7f0ba3f7a82",
+    "notes":  "TESTUPDATE v0.5.0.2-rc4: GitHub-Downloads deutlich robuster (90-Sekunden-Lese-Timeout, bis zu 3 Versuche). Vollstaendig gepruefte APK bleibt fuer erneuten Installationsversuch gespeichert, zum Beispiel nach Android-Berechtigungsfrage. Google-Kontoauswahl-Fix aus rc3 ist enthalten. Gast-XP bleiben erhalten. Firebase-Login, App Check und Cloud-Synchronisierung auf echten Geraeten noch in Testphase."
 }
