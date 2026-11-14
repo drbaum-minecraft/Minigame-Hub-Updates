@@ -3,5 +3,5 @@
     "versionName":  "0.4.4",
     "apkUrl":  "https://raw.githubusercontent.com/drbaum-minecraft/Minigame-Hub-Updates/main/Minigame-Hub-v0.4.4.apk",
     "sha256":  "cb0164c355cb5b8ba33ae1c39085fc4092da1031e1b9a23049aa53c6c66d1a23",
-    "notes":  "Minigame Hub 0.4.4: optimierte Oberflaeche, stabilere Spiele und Updates ohne Neuinstallation bei gleicher App-Signatur."
+    "notes":  "v0.4.4: Neue Erststart-Auswahl zwischen Account-Vorschau und Gast. Lokale Gaeste bekommen dauerhafte zufaellige IDs und Gastnamen statt Gast01. XP und vorhandene Profile bleiben erhalten. Google-Anmeldung, Cloud-Spielstand und Online-Freundschaften sind noch NICHT verfuegbar und werden als Vorschau gekennzeichnet."
 }
