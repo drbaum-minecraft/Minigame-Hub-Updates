@@ -1,7 +1,7 @@
 {
-    "version":  "0.5.0-rc1",
-    "apk_url":  "https://raw.githubusercontent.com/drbaum-minecraft/Minigame-Hub-Updates/main/Minigame-Hub-v0.5.0-rc1.apk",
-    "notes":  "TESTVERSION v0.5.0-rc1: Google-Login, Firebase-Spark-Profile, Cloud-XP und Online-Freunde zum Testen. Bestehende Gastdaten bleiben erhalten. WICHTIG: Google-Anmeldung, App Check und Zwei-Geraete-Synchronisierung wurden noch nicht auf echten Android-Geraeten bestaetigt. Diese Vorabversion kann Fehler enthalten. Die Installation erfordert eine Android-Bestaetigung.",
-    "versionCode":  19,
-    "sha256":  "859afb5c446a89c7b07a1c0b4a40a1236e77fae8d7ab0c3936258d86dd63cf6f"
+    "version":  "0.5.0-rc2",
+    "apk_url":  "https://raw.githubusercontent.com/drbaum-minecraft/Minigame-Hub-Updates/main/Minigame-Hub-v0.5.0-rc2.apk",
+    "notes":  "TESTVERSION v0.5.0-rc2: Google-Anmeldung repariert - der Google-Button startet jetzt die offizielle Kontoauswahl statt der fehlerhaften automatischen Credential-Auswahl. Besserer Fehlerhinweis, falls Google Play-Dienste oder ein Google-Konto fehlen. Die Konto-, Freunde- und Cloud-Funktionen sind weiter in Testphase; bitte echte Anmeldung und App Check pruefen. Gastfortschritt bleibt erhalten.",
+    "versionCode":  20,
+    "sha256":  "94db7f59928324c9db2771e2526c1fe1d98e10cc4ca01c044b8cd0b131ea77d1"
 }
