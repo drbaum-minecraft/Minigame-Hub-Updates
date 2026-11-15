@@ -1,7 +1,7 @@
 {
-    "version":  "0.6.0-beta.1",
-    "apk_url":  "https://raw.githubusercontent.com/drbaum-minecraft/Minigame-Hub-Updates/main/Minigame-Hub-v0.6.0-beta.1.apk",
-    "notes":  "TESTUPDATE v0.6.0-beta.1 (Build 40): Versionssprung von rc21 auf 0.6.0-beta.1 (Build 40). Kein Stable-Release.; Blockierte Spieler können im Freunde-Menü angezeigt und wieder entsperrt werden. Eine frühere Freundschaft wird nicht automatisch wiederhergestellt.; Abgelaufene Lobby-Einladungen verschwinden ohne störenden Ablaufhinweis automatisch spätestens 10 Sekunden nach den 15 Minuten.; Technische Hinweise wie Firebase-Konto wurden aus der Freundesoberfläche entfernt; Berechtigungsfehler werden verständlich angezeigt und nicht als Erfolg dargestellt.. Entwickler-Testversion: noch keine stabile Freigabe. Cloud-Berechtigungen muessen separat aktiviert werden.",
-    "versionCode":  40,
-    "sha256":  "f28d41e36ef4099256b29dbab7d3ed05feb13480494d66f4d6fdc24f539a79a3"
+    "version":  "0.6.0-beta.2",
+    "apk_url":  "https://raw.githubusercontent.com/drbaum-minecraft/Minigame-Hub-Updates/main/Minigame-Hub-v0.6.0-beta.2.apk",
+    "notes":  "TESTUPDATE v0.6.0-beta.2 (Build 41): Neues spielbares 2D-Spiel Zahlen Raten mit festem Standardbereich 1 bis 100, lokal zu zweit, drei Bot-Schwierigkeitsstufen und Online-P2P.; Beide Spieler wählen geheim eine eigene Zahl, danach läuft ein schnelles Zahlen-Stopp-Duell von 1 bis 10; die höhere gestoppte Zahl beginnt, bei Gleichstand wird neu gestoppt.; Abwechselndes Raten der gegnerischen Geheimzahl; höher/tiefer/richtig, geordneter Rateverlauf, eingegrenzte Tipps und Sieg beim ersten korrekten Rateversuch.; Der Zahlen-Stopp-Bildschirm zeigt beide Ergebnisse kurz vor dem Spielstart. Schnell wechselnde Zufallszahlen erschweren das gezielte Stoppen bei 10.. Entwickler-Testversion: noch keine stabile Freigabe. Cloud-Berechtigungen muessen separat aktiviert werden.",
+    "versionCode":  41,
+    "sha256":  "ee06fffed06af7ff89e3b92469ed4532dafb1a51fa668c72b8d71b6a5580e219"
 }
