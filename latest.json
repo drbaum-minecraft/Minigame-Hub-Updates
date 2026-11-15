@@ -1,7 +1,7 @@
 {
-    "versionCode":  35,
-    "versionName":  "0.5.0.15-rc17",
-    "apkUrl":  "https://raw.githubusercontent.com/drbaum-minecraft/Minigame-Hub-Updates/main/Minigame-Hub-v0.5.0.15-rc17.apk",
-    "sha256":  "78a0941c311b24035b8c36f66cee8f73402bd4b25eebba4ccf0d40d7200a8d9f",
-    "notes":  "TESTUPDATE v0.5.0.15-rc17 (Build 35): Den zu starken Memory-Bot auf Stufe Normal neu balanciert: Eine Karte bekommt nur bei der ersten Sichtung ihre Merkwahrscheinlichkeit, nicht bei jeder Compose-Neuberechnung oder Zugphase erneut; Normal merkt sich einzelne Karten mit 48 % Erst-Erkennung, vergisst gelegentlich bereits bekannte Karten, merkt sich maximal sieben gleichzeitig und nutzt erkannte Gewinnchancen nicht immer perfekt aus; Normale zufaellige Zuege bleiben moeglich; Bot Normal sieht weiterhin keine verdeckten Tiermotive und kann weiter eigene Paarkombinationen erkennen; Der Pro-Bot bleibt unveraendert strategisch und merkt sich jede tatsaechlich aufgedeckte Karte. RC-Testversion: Google-Login und App Check auf echten Geraeten weiterhin in Pruefung."
+    "versionCode":  36,
+    "versionName":  "0.5.0.16-rc18",
+    "apkUrl":  "https://raw.githubusercontent.com/drbaum-minecraft/Minigame-Hub-Updates/main/Minigame-Hub-v0.5.0.16-rc18.apk",
+    "sha256":  "82c816b1ca32f1467cd302c1d5c10b96376f3f11e9adcc9d47e4a816c5359341",
+    "notes":  "TESTUPDATE v0.5.0.16-rc18 (Build 36): Alle zehn unklaren Platzhalter-Tiergesichter durch einheitliche, farbige Illustrationen mit gut unterscheidbaren Silhouetten ersetzt: Giraffe, Pinguin, Hund, Hase, Baer, Eule, Frosch, Wal, Schwein und Panda; Kartenfronten im echten 3D jetzt hochaufgeloest mit zartem Farbhalo, sauberer Kartenumrandung und kontrastreicher, gut lesbarer Tierbezeichnung gestaltet; 2D-Ersatzansicht nutzt dieselben Bilder wie OpenGL; keine Emojis oder externen Bilddownloads; Illustrationen aus Kenney Animal Pack Redux (CC0), Lizenztext bei den Android-Assets mitgeliefert. RC-Testversion: Google-Login und App Check auf echten Geraeten weiterhin in Pruefung."
 }
