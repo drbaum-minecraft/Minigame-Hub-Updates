@@ -1,7 +1,7 @@
 {
-    "version":  "0.5.0.8-rc10",
-    "apk_url":  "https://raw.githubusercontent.com/drbaum-minecraft/Minigame-Hub-Updates/main/Minigame-Hub-v0.5.0.8-rc10.apk",
-    "notes":  "TESTUPDATE v0.5.0.8-rc10 (Build 28): Tic Tac Toe: Leicht blockt ungefaehr 30 Prozent, Mittel 70 Prozent und Schwer 99 Prozent; Gewinnchancen, strategische Zuege und Fork-Erkennung ueberarbeitet; Alle drei Bots spielen abwechslungsreicher; der schwere Bot beruecksichtigt Doppelangriffe, Verteidigung und ein minimax-basiertes Ergebnis; Vor jeder Runde wird unabhaengig 50/50 ausgelost, welcher Spieler als X beginnt; zweisekuendige Profil-Startanimation und persistente Zuteilung bei Bildschirmdrehung; Zugsteuerung, lokale PvP-Runden, Bot-Zuege, XP, Matchpunktestand und Timeout-Auswertung funktionieren auch wenn der erste Spieler O hat. RC-Testversion: Google-Login und App Check auf echten Geraeten weiterhin in Pruefung.",
-    "versionCode":  28,
-    "sha256":  "072830e67c395571cf0510d473729053505f21ac8139cb9ab4ba6d71c6bc5fcb"
+    "version":  "0.5.0.9-rc11",
+    "apk_url":  "https://raw.githubusercontent.com/drbaum-minecraft/Minigame-Hub-Updates/main/Minigame-Hub-v0.5.0.9-rc11.apk",
+    "notes":  "TESTUPDATE v0.5.0.9-rc11 (Build 29): Tic Tac Toe zeigt bei Best of 1/3/5 genau 1/3/5 animierte Siegpunkte, die Mehrheitsregel 1/2/3 Siege bleibt unveraendert; Gewinnlinie verwendet nun die Siegerfigur-Farbe: X rot, O blau; die ueberfluessigen Texte unter dem Spielfeld entfallen; Bot-Schwierigkeit ist auch im Bot-Namen farbig gekennzeichnet: Leicht gruen, Mittel gelb, Schwer rot; Beim Verlassen laufender Spiele ueber Zurueck-Pfeil oder Online-Verlassen erscheint eine Aufgabe-Bestaetigung; Aufgabe gegen Bot zaehlt als Niederlage. RC-Testversion: Google-Login und App Check auf echten Geraeten weiterhin in Pruefung.",
+    "versionCode":  29,
+    "sha256":  "de63f310412f3032ebe36e44c6306a59272880e7b8bfe57c39919bd07d2724fa"
 }
