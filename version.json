@@ -1,7 +1,7 @@
 {
-    "version":  "0.5.0.16-rc18",
-    "apk_url":  "https://raw.githubusercontent.com/drbaum-minecraft/Minigame-Hub-Updates/main/Minigame-Hub-v0.5.0.16-rc18.apk",
-    "notes":  "TESTUPDATE v0.5.0.16-rc18 (Build 36): Alle zehn unklaren Platzhalter-Tiergesichter durch einheitliche, farbige Illustrationen mit gut unterscheidbaren Silhouetten ersetzt: Giraffe, Pinguin, Hund, Hase, Baer, Eule, Frosch, Wal, Schwein und Panda; Kartenfronten im echten 3D jetzt hochaufgeloest mit zartem Farbhalo, sauberer Kartenumrandung und kontrastreicher, gut lesbarer Tierbezeichnung gestaltet; 2D-Ersatzansicht nutzt dieselben Bilder wie OpenGL; keine Emojis oder externen Bilddownloads; Illustrationen aus Kenney Animal Pack Redux (CC0), Lizenztext bei den Android-Assets mitgeliefert. RC-Testversion: Google-Login und App Check auf echten Geraeten weiterhin in Pruefung.",
-    "versionCode":  36,
-    "sha256":  "82c816b1ca32f1467cd302c1d5c10b96376f3f11e9adcc9d47e4a816c5359341"
+    "version":  "0.5.0.17-rc19",
+    "apk_url":  "https://raw.githubusercontent.com/drbaum-minecraft/Minigame-Hub-Updates/main/Minigame-Hub-v0.5.0.17-rc19.apk",
+    "notes":  "TESTUPDATE v0.5.0.17-rc19 (Build 37): 13 eigens synthetisierte, offline gespeicherte und bewusst kurze Effekte: Lobby-Klick, Tab-Wechsel, Tic-Tac-Toe-Platzierung, Stiftgeraeusch beim animierten Gewinnstrich und Gewinnmelodie; Schere Stein Papier: leise Hand-Auswahl, authentischer Schneideeffekt fuer Schere gegen Papier, Papierrascheln fuer Papier gegen Stein, dumpfer Crunch fuer Stein gegen Schere und neutraler Gleichstand; Memory: individuelle, sanfte Sounds beim Kartenaufdecken, gefundenen Paar und abgeschlossener 3D-Austeilanimation; derselbe Ablauf auch im 2D-Fallback; Einstellungen: Spiel-Sounds ein-/ausschaltbar und Lautstaerke von 0 bis 100 Prozent; standardmaessig auf 35 Prozent, dauerhaft lokal gespeichert und vom Profilwechsel unabhaengig. RC-Testversion: Google-Login und App Check auf echten Geraeten weiterhin in Pruefung.",
+    "versionCode":  37,
+    "sha256":  "9f4b3dae0d433282b0fbb1e0c2bc90ff912e0e0017cd63bcff98c52f2a8d2cc9"
 }
