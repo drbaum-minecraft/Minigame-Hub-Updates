@@ -1,7 +1,7 @@
 {
-    "versionCode":  32,
-    "versionName":  "0.5.0.12-rc14",
-    "apkUrl":  "https://raw.githubusercontent.com/drbaum-minecraft/Minigame-Hub-Updates/main/Minigame-Hub-v0.5.0.12-rc14.apk",
-    "sha256":  "1e3cdf115a9e77c75df9b9f8e38fdb5fb58318abd7dc0c24f43adcc8650664f0",
-    "notes":  "TESTUPDATE v0.5.0.12-rc14 (Build 32): Memory neu spielbar mit zehn Tier-Kartenpaaren (20 Karten in vier Spalten und fuenf Reihen) auf gruenem Filzbrett mit eingezeichneten Bereichen und 3D-Perspektiv-Kartenflip; Starter wird vor jedem neuen Memory-Match fair 50/50 gewaehlt; zwei Starterkarten drehen sich zur Auslosung um und zeigen das Profil des Startenden; Gefundene Paare vergeben einen Punkt und einen weiteren Zug; Fehlversuche wechseln den Spieler erst nach Kartenvergleich; Gewinner ist der Spieler mit den meisten Paaren; Bot Normal merkt sich nur einen Teil der zuvor gezeigten Tierbilder, Bot Pro merkt sich alle aufgedeckten Karten und ist im Spiel lila markiert; keine Bot-Stufe erhaelt verdeckte Kartenwerte. RC-Testversion: Google-Login und App Check auf echten Geraeten weiterhin in Pruefung."
+    "versionCode":  33,
+    "versionName":  "0.5.0.13-rc15",
+    "apkUrl":  "https://raw.githubusercontent.com/drbaum-minecraft/Minigame-Hub-Updates/main/Minigame-Hub-v0.5.0.13-rc15.apk",
+    "sha256":  "304800a8eeee2b0c4b66c3e6137dc8817becba3db458cc6ae134dd517f57c187",
+    "notes":  "TESTUPDATE v0.5.0.13-rc15 (Build 33): Bisheriges Memory-Kartenraster durch echte OpenGL-ES-2.0-3D-Szene mit Perspektivkamera, volumetrischen Karten und einem dreidimensionalen Filzspielbrett ersetzt; Karten haben jetzt sichtbare Dicke, Seitenkanten, getrennte Tier-Vorderseiten und Kartenruecken sowie einen passend schattierten Holztisch; Beim ersten Spielstart werden nach der bereits bestehenden Starterauslosung alle zwanzig Karten zeitversetzt von oberhalb des Spielfelds auf ihre Positionen eingeflogen und abgelegt; Karten werden danach durch echte 180-Grad-Drehung um die 3D-Y-Achse umgedreht, kurz angehoben und beim Finden eines Paars nach oben weggenommen. RC-Testversion: Google-Login und App Check auf echten Geraeten weiterhin in Pruefung."
 }
