@@ -1,7 +1,7 @@
 {
-    "versionCode":  41,
-    "versionName":  "0.6.0-beta.2",
-    "apkUrl":  "https://raw.githubusercontent.com/drbaum-minecraft/Minigame-Hub-Updates/main/Minigame-Hub-v0.6.0-beta.2.apk",
-    "sha256":  "ee06fffed06af7ff89e3b92469ed4532dafb1a51fa668c72b8d71b6a5580e219",
-    "notes":  "TESTUPDATE v0.6.0-beta.2 (Build 41): Neues spielbares 2D-Spiel Zahlen Raten mit festem Standardbereich 1 bis 100, lokal zu zweit, drei Bot-Schwierigkeitsstufen und Online-P2P.; Beide Spieler wählen geheim eine eigene Zahl, danach läuft ein schnelles Zahlen-Stopp-Duell von 1 bis 10; die höhere gestoppte Zahl beginnt, bei Gleichstand wird neu gestoppt.; Abwechselndes Raten der gegnerischen Geheimzahl; höher/tiefer/richtig, geordneter Rateverlauf, eingegrenzte Tipps und Sieg beim ersten korrekten Rateversuch.; Der Zahlen-Stopp-Bildschirm zeigt beide Ergebnisse kurz vor dem Spielstart. Schnell wechselnde Zufallszahlen erschweren das gezielte Stoppen bei 10.. Entwickler-Testversion: noch keine stabile Freigabe. Cloud-Berechtigungen muessen separat aktiviert werden."
+    "versionCode":  42,
+    "versionName":  "0.6.0-beta.3",
+    "apkUrl":  "https://raw.githubusercontent.com/drbaum-minecraft/Minigame-Hub-Updates/main/Minigame-Hub-v0.6.0-beta.3.apk",
+    "sha256":  "d07f79325d0140069035bd02566a37a07f8c02122d0d81c232c9e8c087025c05",
+    "notes":  "TESTUPDATE v0.6.0-beta.3 (Build 42): Neues 2D-Mehrspieler-Spiel Zahlen Duell mit 2 bis 9.999 Plätzen; ungültige Eingaben melden nur Zu klein, Zu groß oder Viel zu viel.; Der Host legt die maximale Teilnehmerzahl fest. Online können Host und ein weiterer menschlicher Gast per P2P spielen, freie Plätze werden optional automatisch mit Bots aufgefüllt. Weitere echte Online-Teilnehmer erfordern später eine neue Netzwerkarchitektur.; Lokal können ein oder zwei Menschen gegen beliebig viele zusätzliche Bots innerhalb der Spielergrenze spielen.; Faire Namenslos-Auslosung zum Beginn jeder Partie mit bewegten Zetteln. Die Anzeige bleibt bei großen Partien kompakt.. Entwickler-Testversion: noch keine stabile Freigabe. Cloud-Berechtigungen muessen separat aktiviert werden."
 }
