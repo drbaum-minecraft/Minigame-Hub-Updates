@@ -1,7 +1,7 @@
 {
-    "versionCode":  34,
-    "versionName":  "0.5.0.14-rc16",
-    "apkUrl":  "https://raw.githubusercontent.com/drbaum-minecraft/Minigame-Hub-Updates/main/Minigame-Hub-v0.5.0.14-rc16.apk",
-    "sha256":  "375250266589fa580bbe7b13a42e1b1c0b853904d4889e005d7d6b939d0a770e",
-    "notes":  "TESTUPDATE v0.5.0.14-rc16 (Build 34): Den Android-3D-Lifecycle korrigiert: Das 3D-Brett erscheint direkt bei der ersten Memory-Oeffnung, ohne die App im Hintergrund zu parken und danach erneut zu aktivieren; Die transparente, separat ueber Compose liegende GLSurfaceView durch eine transparente TextureView mit eigenem EGL14/OpenGL-ES-Renderthread ersetzt; kein zweites Android-Surface-Layer ueber der App erforderlich; Der erste erfolgreich angezeigte GPU-Frame wird an Compose zurueckgemeldet, und bis dahin bleibt ein Memory-Spielbrett statt eines leeren Bereichs sichtbar; Falls der erste GPU-Frame nicht innerhalb von 3,5 Sekunden gezeichnet werden kann oder der Renderer ausfaellt, wird automatisch das bestehende 2D-Memory-Brett aktiviert und spielbar gemacht. RC-Testversion: Google-Login und App Check auf echten Geraeten weiterhin in Pruefung."
+    "versionCode":  35,
+    "versionName":  "0.5.0.15-rc17",
+    "apkUrl":  "https://raw.githubusercontent.com/drbaum-minecraft/Minigame-Hub-Updates/main/Minigame-Hub-v0.5.0.15-rc17.apk",
+    "sha256":  "78a0941c311b24035b8c36f66cee8f73402bd4b25eebba4ccf0d40d7200a8d9f",
+    "notes":  "TESTUPDATE v0.5.0.15-rc17 (Build 35): Den zu starken Memory-Bot auf Stufe Normal neu balanciert: Eine Karte bekommt nur bei der ersten Sichtung ihre Merkwahrscheinlichkeit, nicht bei jeder Compose-Neuberechnung oder Zugphase erneut; Normal merkt sich einzelne Karten mit 48 % Erst-Erkennung, vergisst gelegentlich bereits bekannte Karten, merkt sich maximal sieben gleichzeitig und nutzt erkannte Gewinnchancen nicht immer perfekt aus; Normale zufaellige Zuege bleiben moeglich; Bot Normal sieht weiterhin keine verdeckten Tiermotive und kann weiter eigene Paarkombinationen erkennen; Der Pro-Bot bleibt unveraendert strategisch und merkt sich jede tatsaechlich aufgedeckte Karte. RC-Testversion: Google-Login und App Check auf echten Geraeten weiterhin in Pruefung."
 }
