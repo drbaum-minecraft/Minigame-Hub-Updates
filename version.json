@@ -1,7 +1,7 @@
 {
-    "version":  "0.5.0.10-rc12",
-    "apk_url":  "https://raw.githubusercontent.com/drbaum-minecraft/Minigame-Hub-Updates/main/Minigame-Hub-v0.5.0.10-rc12.apk",
-    "notes":  "TESTUPDATE v0.5.0.10-rc12 (Build 30): Doppelten Spieltitel in der lokalen Spielansicht entfernt; untere XP-Erklaerungen, Bot-Zufallstext und redundante Rundenhinweise entfernt; Bot heisst jetzt nur noch Bot; eigene Hand wird vor der Spielerauswahl festgelegt und nie anhand der aktuellen Spielerhand berechnet; Eine leicht adaptive Strategie beruecksichtigt ausschliesslich vorherige Spielzuege, erkennt Wiederholungen und einfache Dreierzyklen; mehr als die Haelfte der Bot-Zuege bleibt rein zufaellig; Stein, Papier und Schere werden pro Runde neu gemischt; auf lokalen Zwei-Spieler-Geraeten auch zwischen beiden Handwaehlern; Reihenfolge bleibt ueber Bildschirmdrehungen stabil. RC-Testversion: Google-Login und App Check auf echten Geraeten weiterhin in Pruefung.",
-    "versionCode":  30,
-    "sha256":  "d904f0388ba61d4b6111775a7d3675c8f5b958be4168e72eb3bb5d225edd7ddd"
+    "version":  "0.5.0.11-rc13",
+    "apk_url":  "https://raw.githubusercontent.com/drbaum-minecraft/Minigame-Hub-Updates/main/Minigame-Hub-v0.5.0.11-rc13.apk",
+    "notes":  "TESTUPDATE v0.5.0.11-rc13 (Build 31): Kritischen Reset-Bug in Schere-Stein-Papier abgefangen: Ungueltige Runden-Tokens fallen nicht mehr stillschweigend auf einen neuen 0:0-Spielstand zurueck; Jedes laufende Offline-Best-of-Match wird im vorhandenen lokalen Profil sicher gespeichert; Runde, Siegpunkte, Handwahl und bereits festgelegte Bot-Hand bleiben erhalten; Speicherung wird vor XP- und Sieg-Callbacks abgeschlossen; aeltere UI-Callbacks, doppelte Zugauswertungen und Rueckschritte im Punktestand werden abgewiesen; Im Spielmenue ist ein begonnenes Match bewusst fortsetzbar, auch nach App-Neustart; ein neues 0:0-Match entsteht nur nach ausdruecklicher Aktion. RC-Testversion: Google-Login und App Check auf echten Geraeten weiterhin in Pruefung.",
+    "versionCode":  31,
+    "sha256":  "379d9e01f40b84ef726a2368a6c03506a6d85968bae5a167de304aab5b339801"
 }
