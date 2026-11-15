@@ -1,7 +1,7 @@
 {
-    "version":  "0.5.0.17-rc19",
-    "apk_url":  "https://raw.githubusercontent.com/drbaum-minecraft/Minigame-Hub-Updates/main/Minigame-Hub-v0.5.0.17-rc19.apk",
-    "notes":  "TESTUPDATE v0.5.0.17-rc19 (Build 37): 13 eigens synthetisierte, offline gespeicherte und bewusst kurze Effekte: Lobby-Klick, Tab-Wechsel, Tic-Tac-Toe-Platzierung, Stiftgeraeusch beim animierten Gewinnstrich und Gewinnmelodie; Schere Stein Papier: leise Hand-Auswahl, authentischer Schneideeffekt fuer Schere gegen Papier, Papierrascheln fuer Papier gegen Stein, dumpfer Crunch fuer Stein gegen Schere und neutraler Gleichstand; Memory: individuelle, sanfte Sounds beim Kartenaufdecken, gefundenen Paar und abgeschlossener 3D-Austeilanimation; derselbe Ablauf auch im 2D-Fallback; Einstellungen: Spiel-Sounds ein-/ausschaltbar und Lautstaerke von 0 bis 100 Prozent; standardmaessig auf 35 Prozent, dauerhaft lokal gespeichert und vom Profilwechsel unabhaengig. RC-Testversion: Google-Login und App Check auf echten Geraeten weiterhin in Pruefung.",
-    "versionCode":  37,
-    "sha256":  "9f4b3dae0d433282b0fbb1e0c2bc90ff912e0e0017cd63bcff98c52f2a8d2cc9"
+    "version":  "0.5.0.18-rc20",
+    "apk_url":  "https://raw.githubusercontent.com/drbaum-minecraft/Minigame-Hub-Updates/main/Minigame-Hub-v0.5.0.18-rc20.apk",
+    "notes":  "TESTUPDATE v0.5.0.18-rc20 (Build 38): Neues voll spielbares Vier gewinnt: Standardbrett 7 × 6, 42 Felder, echte Schwerkraft, rote und blaue Steine, 2D-Grafik mit Einwurfanimation; Drei Bot-Stufen Leicht/Mittel/Schwer: Leicht macht oefter Fehler, Mittel erkennt Chancen und blockiert viele Bedrohungen, Schwer nutzt Vorausschau und Alpha-Beta-Suche; keine geheimen Informationen; Lokal zu zweit an einem Handy oder alleine gegen einen Bot. Ein normales Spiel ohne Best-of- oder Groessenwahl; vier gleiche Steine waagerecht, senkrecht oder diagonal gewinnen; Die vier Gewinnsteine leuchten und pulsieren in der jeweiligen Farbe statt einer gezeichneten Gewinnlinie; eigene dezente Einwurf- und Gewinnsounds. RC-Testversion: Google-Login und App Check auf echten Geraeten weiterhin in Pruefung.",
+    "versionCode":  38,
+    "sha256":  "3913aa5968a4cfbcc1aea6dcb8188678d888dc9694ca459d4d84b7617b98abf0"
 }
