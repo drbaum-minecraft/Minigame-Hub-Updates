@@ -1,7 +1,7 @@
 {
-    "version":  "0.5.0.7-rc9",
-    "apk_url":  "https://raw.githubusercontent.com/drbaum-minecraft/Minigame-Hub-Updates/main/Minigame-Hub-v0.5.0.7-rc9.apk",
-    "notes":  "TESTUPDATE v0.5.0.7-rc9 (Build 27): Matchansicht: doppelten Tic-Tac-Toe-Titel unter der vorhandenen Navigation entfernt; Spiel-XP bleibt kompakt oben rechts; Ein responsives, gemeinsam genutztes Tic-Tac-Toe-Spielerboard fuer lokales und Online-Spiel mit festen kompakten Breitenregeln bei 360/393/411 dp; Spielerkarten vertikal statt zusammengedrueckter Zeilen: Profil, ungekuezter Platz fuer den Spielernamen, X/Rot bzw. O/Blau ohne Umbruch und Punkte; Kronenplatz ist direkt im Avatar-Container reserviert und bleibt oberhalb des Profilbilds statt neben der Spielfigur. RC-Testversion: Google-Login und App Check auf echten Geraeten weiterhin in Pruefung.",
-    "versionCode":  27,
-    "sha256":  "6fde823c82e87d1698eef5659a9ea74cb7b4b8a9bd17829d7cac823e98a1c269"
+    "version":  "0.5.0.8-rc10",
+    "apk_url":  "https://raw.githubusercontent.com/drbaum-minecraft/Minigame-Hub-Updates/main/Minigame-Hub-v0.5.0.8-rc10.apk",
+    "notes":  "TESTUPDATE v0.5.0.8-rc10 (Build 28): Tic Tac Toe: Leicht blockt ungefaehr 30 Prozent, Mittel 70 Prozent und Schwer 99 Prozent; Gewinnchancen, strategische Zuege und Fork-Erkennung ueberarbeitet; Alle drei Bots spielen abwechslungsreicher; der schwere Bot beruecksichtigt Doppelangriffe, Verteidigung und ein minimax-basiertes Ergebnis; Vor jeder Runde wird unabhaengig 50/50 ausgelost, welcher Spieler als X beginnt; zweisekuendige Profil-Startanimation und persistente Zuteilung bei Bildschirmdrehung; Zugsteuerung, lokale PvP-Runden, Bot-Zuege, XP, Matchpunktestand und Timeout-Auswertung funktionieren auch wenn der erste Spieler O hat. RC-Testversion: Google-Login und App Check auf echten Geraeten weiterhin in Pruefung.",
+    "versionCode":  28,
+    "sha256":  "072830e67c395571cf0510d473729053505f21ac8139cb9ab4ba6d71c6bc5fcb"
 }
