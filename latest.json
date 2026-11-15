@@ -1,7 +1,7 @@
 {
-    "versionCode":  31,
-    "versionName":  "0.5.0.11-rc13",
-    "apkUrl":  "https://raw.githubusercontent.com/drbaum-minecraft/Minigame-Hub-Updates/main/Minigame-Hub-v0.5.0.11-rc13.apk",
-    "sha256":  "379d9e01f40b84ef726a2368a6c03506a6d85968bae5a167de304aab5b339801",
-    "notes":  "TESTUPDATE v0.5.0.11-rc13 (Build 31): Kritischen Reset-Bug in Schere-Stein-Papier abgefangen: Ungueltige Runden-Tokens fallen nicht mehr stillschweigend auf einen neuen 0:0-Spielstand zurueck; Jedes laufende Offline-Best-of-Match wird im vorhandenen lokalen Profil sicher gespeichert; Runde, Siegpunkte, Handwahl und bereits festgelegte Bot-Hand bleiben erhalten; Speicherung wird vor XP- und Sieg-Callbacks abgeschlossen; aeltere UI-Callbacks, doppelte Zugauswertungen und Rueckschritte im Punktestand werden abgewiesen; Im Spielmenue ist ein begonnenes Match bewusst fortsetzbar, auch nach App-Neustart; ein neues 0:0-Match entsteht nur nach ausdruecklicher Aktion. RC-Testversion: Google-Login und App Check auf echten Geraeten weiterhin in Pruefung."
+    "versionCode":  32,
+    "versionName":  "0.5.0.12-rc14",
+    "apkUrl":  "https://raw.githubusercontent.com/drbaum-minecraft/Minigame-Hub-Updates/main/Minigame-Hub-v0.5.0.12-rc14.apk",
+    "sha256":  "1e3cdf115a9e77c75df9b9f8e38fdb5fb58318abd7dc0c24f43adcc8650664f0",
+    "notes":  "TESTUPDATE v0.5.0.12-rc14 (Build 32): Memory neu spielbar mit zehn Tier-Kartenpaaren (20 Karten in vier Spalten und fuenf Reihen) auf gruenem Filzbrett mit eingezeichneten Bereichen und 3D-Perspektiv-Kartenflip; Starter wird vor jedem neuen Memory-Match fair 50/50 gewaehlt; zwei Starterkarten drehen sich zur Auslosung um und zeigen das Profil des Startenden; Gefundene Paare vergeben einen Punkt und einen weiteren Zug; Fehlversuche wechseln den Spieler erst nach Kartenvergleich; Gewinner ist der Spieler mit den meisten Paaren; Bot Normal merkt sich nur einen Teil der zuvor gezeigten Tierbilder, Bot Pro merkt sich alle aufgedeckten Karten und ist im Spiel lila markiert; keine Bot-Stufe erhaelt verdeckte Kartenwerte. RC-Testversion: Google-Login und App Check auf echten Geraeten weiterhin in Pruefung."
 }
