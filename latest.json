@@ -1,7 +1,7 @@
 {
-    "versionCode":  44,
-    "versionName":  "0.6.0-beta.5",
-    "apkUrl":  "https://raw.githubusercontent.com/drbaum-minecraft/Minigame-Hub-Updates/main/Minigame-Hub-v0.6.0-beta.5.apk",
-    "sha256":  "af5d6b975b271a28dffee4ef9a0f6a87c77f50d8467e88c43bdbed7d1cf656f3",
-    "notes":  "TESTUPDATE v0.6.0-beta.5 (Build 44): Buchstabensalat: Deutsch/Englisch, drei Wort- und Bot-Stufen, zwei Wortverteilungen und Zeitrennen von einer bis fuenf Minuten. Lokal gegen Bot oder online zu zweit mit zusaetzlichen Bots.; Wahr oder Falsch: 50 gemischte Aussagen mit Erklaerungen, 15 Sekunden pro Frage, 5/10/15/20/30 Fragen und Profil-Aufloesung nach gemeinsamen Stimmen oder Zeitablauf.; Stadt Land Fluss: Stadt, Land und Fluss, animierter Zufallsbuchstabe, Rundenende nach erster vollstaendiger Abgabe, lokale Woerterbuchpruefung und 10/5/3-Punktewertung.; Galgenmaennchen: 133 deutsche Woerter, A-Z mit Umlauten und scharfem S, Teammodus auf einem Geraet fuer 2-8 Personen, Online-P2P zu zweit sowie zehn gezeichnete Fehlerstufen.. Entwickler-Testversion: noch keine stabile Freigabe. Cloud-Berechtigungen muessen separat aktiviert werden."
+    "versionCode":  45,
+    "versionName":  "0.7.0-beta.1",
+    "apkUrl":  "https://raw.githubusercontent.com/drbaum-minecraft/Minigame-Hub-Updates/main/Minigame-Hub-v0.7.0-beta.1.apk",
+    "sha256":  "a8d2bf1be5ebd06c0847d529ebf69b513f169aa1929843cd4eadbe3aeb55cb44",
+    "notes":  "TESTUPDATE v0.7.0-beta.1 (Build 45): Farb Rausch: Vier absichtlich wechselnde Schriftfarben, 5/10/20/30 Runden, schnelle richtige Antworten und Rangpunkte von N-1 bis 0 fuer 2-8 Teilnehmerplaetze.; Heisse Kartoffel: 3-8 Spieler, zufaelliger geheimer Verbrennungstimer, Weitergeben zwischen aktiven Profilen und Ausscheiden, bis nur eine Person uebrig ist. Lokal mit mehreren Menschen am selben Handy oder Bots.; Emoji Quiz: 92 ausbaubare deutsche Emoji-Raetsel, Tippantworten mit alternativen Schreibweisen, 5/10/20/30 Runden, 15 Sekunden pro Raetsel und Rangpunkte fuer schnelle richtige Antworten.; Multiplayer: Das vorhandene P2P-System verbindet bis zu zwei echte Android-Geraete; zusaetzliche Plaetze sind derzeit Bots. Echte Gruppenlobbys fuer 3-8 Online-Spieler stehen noch aus.. Entwickler-Testversion: noch keine stabile Freigabe. Cloud-Berechtigungen muessen separat aktiviert werden."
 }
