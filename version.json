@@ -1,7 +1,7 @@
 {
-    "version":  "0.6.0-beta.3",
-    "apk_url":  "https://raw.githubusercontent.com/drbaum-minecraft/Minigame-Hub-Updates/main/Minigame-Hub-v0.6.0-beta.3.apk",
-    "notes":  "TESTUPDATE v0.6.0-beta.3 (Build 42): Neues 2D-Mehrspieler-Spiel Zahlen Duell mit 2 bis 9.999 Plätzen; ungültige Eingaben melden nur Zu klein, Zu groß oder Viel zu viel.; Der Host legt die maximale Teilnehmerzahl fest. Online können Host und ein weiterer menschlicher Gast per P2P spielen, freie Plätze werden optional automatisch mit Bots aufgefüllt. Weitere echte Online-Teilnehmer erfordern später eine neue Netzwerkarchitektur.; Lokal können ein oder zwei Menschen gegen beliebig viele zusätzliche Bots innerhalb der Spielergrenze spielen.; Faire Namenslos-Auslosung zum Beginn jeder Partie mit bewegten Zetteln. Die Anzeige bleibt bei großen Partien kompakt.. Entwickler-Testversion: noch keine stabile Freigabe. Cloud-Berechtigungen muessen separat aktiviert werden.",
-    "versionCode":  42,
-    "sha256":  "d07f79325d0140069035bd02566a37a07f8c02122d0d81c232c9e8c087025c05"
+    "version":  "0.6.0-beta.5",
+    "apk_url":  "https://raw.githubusercontent.com/drbaum-minecraft/Minigame-Hub-Updates/main/Minigame-Hub-v0.6.0-beta.5.apk",
+    "notes":  "TESTUPDATE v0.6.0-beta.5 (Build 44): Buchstabensalat: Deutsch/Englisch, drei Wort- und Bot-Stufen, zwei Wortverteilungen und Zeitrennen von einer bis fuenf Minuten. Lokal gegen Bot oder online zu zweit mit zusaetzlichen Bots.; Wahr oder Falsch: 50 gemischte Aussagen mit Erklaerungen, 15 Sekunden pro Frage, 5/10/15/20/30 Fragen und Profil-Aufloesung nach gemeinsamen Stimmen oder Zeitablauf.; Stadt Land Fluss: Stadt, Land und Fluss, animierter Zufallsbuchstabe, Rundenende nach erster vollstaendiger Abgabe, lokale Woerterbuchpruefung und 10/5/3-Punktewertung.; Galgenmaennchen: 133 deutsche Woerter, A-Z mit Umlauten und scharfem S, Teammodus auf einem Geraet fuer 2-8 Personen, Online-P2P zu zweit sowie zehn gezeichnete Fehlerstufen.. Entwickler-Testversion: noch keine stabile Freigabe. Cloud-Berechtigungen muessen separat aktiviert werden.",
+    "versionCode":  44,
+    "sha256":  "af5d6b975b271a28dffee4ef9a0f6a87c77f50d8467e88c43bdbed7d1cf656f3"
 }
