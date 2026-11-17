@@ -1,9 +1,9 @@
-# Minigame Hub Android Updates
+# Minigame Hub für Android
 
-Latest signed APK: [Minigame-Hub-v0.4.4.apk](https://raw.githubusercontent.com/drbaum-minecraft/Minigame-Hub-Updates/main/Minigame-Hub-v0.4.4.apk)
+**[Neueste APK herunterladen](https://raw.githubusercontent.com/drbaum-minecraft/Minigame-Hub-Updates/main/Minigame-Hub-v0.8.0-beta.3.apk)**
 
-Preview test APK (not stable): [Minigame-Hub-v0.8.0-beta.3.apk](https://raw.githubusercontent.com/drbaum-minecraft/Minigame-Hub-Updates/main/Minigame-Hub-v0.8.0-beta.3.apk)
+Aktuell: **0.8.0-beta.3 (Build 48)**. Dies ist eine signierte Beta für Android.
 
 - [Current signed APK manifest](latest.json)
-- [Older Android client manifest](version.json)
-- Older APKs remain available and the source repository stays private.
+- [Updatefeed für ältere App-Versionen](version.json)
+- [Archiv früherer APKs](https://github.com/drbaum-minecraft/Minigame-Hub-Updates/tree/archive/apks-through-build-48)
