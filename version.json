@@ -1,7 +1,7 @@
 {
-    "version":  "0.8.0-beta.2",
-    "apk_url":  "https://raw.githubusercontent.com/drbaum-minecraft/Minigame-Hub-Updates/main/Minigame-Hub-v0.8.0-beta.2.apk",
-    "notes":  "TESTUPDATE v0.8.0-beta.2 (Build 47): Kontonamen: freiwillige Namensaenderung alle 24 Stunden statt 30 Tagen; erste Umbenennung nach der Registrierung sofort moeglich.; Erzwungene Korrektur eines gesperrten Bestandsnamens ohne Wartefrist, auch bei alter oder fehlender Namensreservierung; danach gilt die 24-Stunden-Frist.; Namensaenderung: verstaendliche Fehlermeldungen und Anzeige des naechsten moeglichen Termins in den Einstellungen.; Tablet-Lobby im Querformat: Spielkarten kompakter, kein Verdecken durch die untere Navigationsleiste; alle Spiele bleiben erreichbar.. Entwickler-Testversion: noch keine stabile Freigabe. Cloud-Berechtigungen muessen separat aktiviert werden.",
-    "versionCode":  47,
-    "sha256":  "4b69a3c2c2bd7f03d856f51be05ca34b5b3962523062af48edaca7702fb74e3a"
+    "version":  "0.8.0-beta.3",
+    "apk_url":  "https://raw.githubusercontent.com/drbaum-minecraft/Minigame-Hub-Updates/main/Minigame-Hub-v0.8.0-beta.3.apk",
+    "notes":  "TESTUPDATE v0.8.0-beta.3 (Build 48): Fixed fatal launch crash in build 47: the release worktree omitted the ignored Firebase google-services.json configuration, causing the FirebaseApp startup to fail.; Restored the project-owned Firebase configuration for the signed release build without checking credentials into Git.; Added mandatory release-build checks so missing Firebase configuration cannot silently produce a publicly signed APK.; Includes all fixes from 0.8.0-beta.2 and retains the existing Android app ID and release signing identity.. Entwickler-Testversion: noch keine stabile Freigabe. Cloud-Berechtigungen muessen separat aktiviert werden.",
+    "versionCode":  48,
+    "sha256":  "b0acfdcc1b3c4395be17250ec9a0f40595c636d34c97be05c5c92b53cbec109f"
 }
