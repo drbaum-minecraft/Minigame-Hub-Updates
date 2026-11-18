@@ -1,7 +1,7 @@
 {
-    "version":  "0.9.11-rbeta.2",
-    "apk_url":  "https://raw.githubusercontent.com/drbaum-minecraft/Minigame-Hub-Updates/main/Minigame-Hub-v0.9.11-rbeta.2.apk",
-    "notes":  "TESTUPDATE v0.9.11-rbeta.2 (Build 53): Gemeinsamer Android-/Firestore-Namensfilter erkennt ausgewaehlte Leetspeak- und Unterstrich-Varianten, schwere Beleidigungen, NS-Bezuege und die angefragten Namen historischer Taeter; gueltige Alltagsnamen bleiben zulaessig.; Bereits bestehende gesperrte Namen werden wie zuvor zur einmaligen sofortigen Korrektur aufgefordert; Konten, XP und Profilinformationen bleiben erhalten.; Startseite: Spielkacheln verwenden die bisherige Glas-Tonung ohne aufwaendige Kopie der Hintergrundebene pro Kachel, Hoch-/Querformat-Layout unveraendert.; Memory-OpenGL: Frame-Wartezeit richtet sich nach bereits verbrauchter Renderzeit statt nach fixer zusaetzlicher Pause; reale 60-FPS-Konstanz bedarf noch eines Geraetetests.. Entwickler-Testversion: noch keine stabile Freigabe. Cloud-Berechtigungen muessen separat aktiviert werden.",
-    "versionCode":  53,
-    "sha256":  "adb54df5534c0b9b73092310fa08e38ff4d16c9c9a75e7504c5f64e0793410ab"
+    "version":  "0.9.11-rbeta.3",
+    "apk_url":  "https://raw.githubusercontent.com/drbaum-minecraft/Minigame-Hub-Updates/main/Minigame-Hub-v0.9.11-rbeta.3.apk",
+    "notes":  "TESTUPDATE v0.9.11-rbeta.3 (Build 54): Multiplayer-Tab: zum Einstieg nur Lobby erstellen oder einer Lobby per Code beitreten, ohne voreilige Spiel-/Regelkarten.; Startseite: nach Spielauswahl Wahl zwischen Singleplayer/Lokal (bestehendes Setup gegen Bot oder auf einem Geraet) und Online; Host-Auswahl aktualisiert die bestehende Lobby oder erstellt eine neue.; Host-Lobby: Auswahl des Spiels per Link zur Startseite, Spielerkarten mit Avataren und Readystatus; Host kann den Gast entfernen, Einladungen verschicken und Einstellungen in einer eigenen Ansicht bearbeiten.; Gäste sehen ausschließlich das ausgewählte Spiel, echte Teilnehmer und Ready-Status sowie Verlassen; keine Spieleinstellungen.. Entwickler-Testversion: noch keine stabile Freigabe. Cloud-Berechtigungen muessen separat aktiviert werden.",
+    "versionCode":  54,
+    "sha256":  "03ca10aeaf0f4fd180b41ecc27b184dbf7f981b9df8b7b4f7b4593f7ea3ace3c"
 }
