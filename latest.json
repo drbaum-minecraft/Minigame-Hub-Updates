@@ -1,7 +1,7 @@
 {
-    "versionCode":  55,
-    "versionName":  "0.9.11-rbeta.4",
-    "apkUrl":  "https://raw.githubusercontent.com/drbaum-minecraft/Minigame-Hub-Updates/main/Minigame-Hub-v0.9.11-rbeta.4.apk",
-    "sha256":  "16fecd14c100d90ac82d12a372d0a9774b2d7661cab1aea50d5ac6b9fbf6a99c",
-    "notes":  "TESTUPDATE v0.9.11-rbeta.4 (Build 55): Vier gewinnt: eigenes echtes OpenGL-ES-2.0-Spielfeld mit räumlicher Tiefe, beleuchteten roten/blauen Kugeln, 3D-Rahmen und sieben antippbaren Spalten. Einheitlich für Bot, lokales Zwei-Personen-Spiel und vorhandenes Online-Spiel.; Einwurf von oben mit beschleunigtem Fall, kleinem Aufprall-Federn und kurzen, selbst erzeugten Soundeffekten für Einwurf und Aufprall. Gewinnsound bleibt erhalten.; Querformat: Spielerinformationen links, 3D-Tafel vollständig sichtbar rechts, statt teilweise abgeschnittenem Spielfeld; Hochformat bleibt vertikal mit skalierter Tafel.; OpenGL-Fehler oder ausbleibende erste Darstellung schalten auf das vorhandene spielbare 2D-Brett zurück. Bestehende Regeln, Bots, Fortschritt und gespeicherte Partien bleiben unverändert.. Entwickler-Testversion: noch keine stabile Freigabe. Cloud-Berechtigungen muessen separat aktiviert werden."
+    "versionCode":  56,
+    "versionName":  "0.9.11-rbeta.5",
+    "apkUrl":  "https://raw.githubusercontent.com/drbaum-minecraft/Minigame-Hub-Updates/main/Minigame-Hub-v0.9.11-rbeta.5.apk",
+    "sha256":  "8cca410f14f9e90a3891195e11483e722c4f2cb4924daf6b42e51209fd309a1c",
+    "notes":  "TESTUPDATE v0.9.11-rbeta.5 (Build 56): Das bisherige 2D-Spiel Tischtennis heißt überall Ping Pong. Bestehende App-/Spiel-IDs und lokal gespeicherte Ergebnisse bleiben unverändert.; Ping Pong Online: 2 verbundene Spieler mit je einem Schläger. Der Host berechnet Ballphysik, Aufschläge und Punkte, sendet begrenzte Spielstands-Snapshots und nimmt validierte Schlägerpositionen des Gasts entgegen. Bis 5/11/21 Punkte und 2-Punkte-Vorsprung, hostseitige Einstellungen. Online-Realgerätetest weiterhin offen.; Online-Spielnavigation: ein gemeinsamer Pfeil anstelle der doppelten Verlassen-Schaltflächen. Bei aktivem Match zwei bestätigte Wege: Aufgabe mit gemeinsamem Lobbywechsel oder Aufgabe und eigenes Startmenü. Host synchronisiert die Rückkehr auch auf Anfrage des Gasts.; Rematch-Anzeige: Anzahl der bisher bereiten Spieler (0/2, 1/2, 2/2), weiterhin nur gemeinsamer Neustart.. Entwickler-Testversion: noch keine stabile Freigabe. Cloud-Berechtigungen muessen separat aktiviert werden."
 }
