@@ -1,7 +1,7 @@
 {
-    "versionCode":  50,
-    "versionName":  "0.8.0-beta.5",
-    "apkUrl":  "https://raw.githubusercontent.com/drbaum-minecraft/Minigame-Hub-Updates/main/Minigame-Hub-v0.8.0-beta.5.apk",
-    "sha256":  "77a20703c40703a152a21a34cfef3a24fccf443d8d10645ea2312c6cff78cdb9",
-    "notes":  "TESTUPDATE v0.8.0-beta.5 (Build 50): Tic Tac Toe: Im lokalen Bot-Modus und im P2P-Match werden X/O und der Startspieler beim Matchstart zufaellig festgelegt; die gewaehlten Figuren bleiben fuer Folgerunden fest, dann beginnt der Verlierer. Unentschieden wechseln den Starter; im Rematch wird neu gelost.; Memory: 3D-Karten an den markierten 4x5-Tischfeldern ausgerichtet; Paare bewegen sich zusammen und fliegen verkleinert in Richtung Spielerprofil. Normal-Bot reagiert etwas staerker auf Rueckstand und vermeidet die gerade gesehenen zwei Karten nach Moeglichkeit.; Memory: Eigenes Gewinn-Pop-up mit fallenden Karten statt Konfetti; auch online ohne doppeltes Gewinnfenster. Spielbeginn weiterhin mit drehenden 3D-aehnlichen Karten; Rematch-Schaltflaeche einheitlich.; Zahlen Raten: Gueltige Geheimzahlen und Tipps von 0 bis 100; keine automatische Eingrenzungsanzeige und keine UI-Sperre auf bekannte Teilbereiche. Kleinere Zahlenfelder, Profilbilder, eigener/gegnerischer Rateverlauf und verlangsamter Zahlenstopp mit sichtbarem Endergebnis.. Entwickler-Testversion: noch keine stabile Freigabe. Cloud-Berechtigungen muessen separat aktiviert werden."
+    "versionCode":  51,
+    "versionName":  "0.8.0-beta.6",
+    "apkUrl":  "https://raw.githubusercontent.com/drbaum-minecraft/Minigame-Hub-Updates/main/Minigame-Hub-v0.8.0-beta.6.apk",
+    "sha256":  "510848abfa7d09e941f6e83c1c9dfddbe6f9bae82985bdcb7a09413375b7775f",
+    "notes":  "TESTUPDATE v0.8.0-beta.6 (Build 51): Zahlen Duell: doppelte große Überschrift entfernt, oben lebende Spieleranzahl; animierter großer Zähler und sichtbares +1/+2/+3. Bei 11 oder mehr rot, Ausscheiden und Reset auf 0.; Zahlen Duell: Spieler und Profile links, kompakter Zugverlauf mit Profilen und +Betrag rechts im Querformat; Gewinn-Pop-up mit fallenden Zahlen 1 bis 10.; Galgenmännchen: 1 bis 8 Teilnehmer; wahlweise weitere Plätze mit einfachen Bots füllen. Bots raten erst Vokale, dann häufige deutsche Konsonanten, ohne das Wort einzusehen.; Galgenmännchen: Doppelüberschrift und Versuchszähler im oberen Spielbereich entfernt; Kategorie behalten. Galgen kompakter und vollständiger mit Stütze, Seil, Armen, Beinen und X-Augen.. Entwickler-Testversion: noch keine stabile Freigabe. Cloud-Berechtigungen muessen separat aktiviert werden."
 }
