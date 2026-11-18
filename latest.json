@@ -1,7 +1,7 @@
 {
-    "versionCode":  51,
-    "versionName":  "0.8.0-beta.6",
-    "apkUrl":  "https://raw.githubusercontent.com/drbaum-minecraft/Minigame-Hub-Updates/main/Minigame-Hub-v0.8.0-beta.6.apk",
-    "sha256":  "510848abfa7d09e941f6e83c1c9dfddbe6f9bae82985bdcb7a09413375b7775f",
-    "notes":  "TESTUPDATE v0.8.0-beta.6 (Build 51): Zahlen Duell: doppelte große Überschrift entfernt, oben lebende Spieleranzahl; animierter großer Zähler und sichtbares +1/+2/+3. Bei 11 oder mehr rot, Ausscheiden und Reset auf 0.; Zahlen Duell: Spieler und Profile links, kompakter Zugverlauf mit Profilen und +Betrag rechts im Querformat; Gewinn-Pop-up mit fallenden Zahlen 1 bis 10.; Galgenmännchen: 1 bis 8 Teilnehmer; wahlweise weitere Plätze mit einfachen Bots füllen. Bots raten erst Vokale, dann häufige deutsche Konsonanten, ohne das Wort einzusehen.; Galgenmännchen: Doppelüberschrift und Versuchszähler im oberen Spielbereich entfernt; Kategorie behalten. Galgen kompakter und vollständiger mit Stütze, Seil, Armen, Beinen und X-Augen.. Entwickler-Testversion: noch keine stabile Freigabe. Cloud-Berechtigungen muessen separat aktiviert werden."
+    "versionCode":  52,
+    "versionName":  "0.9.11-rbeta.1",
+    "apkUrl":  "https://raw.githubusercontent.com/drbaum-minecraft/Minigame-Hub-Updates/main/Minigame-Hub-v0.9.11-rbeta.1.apk",
+    "sha256":  "569927a8f560f7b7de926864206adeff304948d871de9f9941937b938e46a4de",
+    "notes":  "TESTUPDATE v0.9.11-rbeta.1 (Build 52): Neues selbst am PC gerendertes 2D-Wuerfelgesicht als Android-App-Icon eingebaut: blaues Tic-Tac-Toe-O links, rotes X rechts und breites weisses Grinsen.; Sechs vorhandene Theme-Farben (Standard, Winter, Sommer, Halloween, Weihnachten, RGB) mit passenden adaptiven Vektor-Launcher-Icons erhalten. Android-Monochrom-Icon ebenfalls aktualisiert.; PC-Originale als bearbeitbare SVG und PNG mit reproduzierbarem Python-Renderer unter assets/icons/flat_xo_cube/ abgelegt.; Feste Basisversion 0.9.11; kuenftige Testupdates nutzen 0.9.11-rbeta.2, 0.9.11-rbeta.3 usw. und erhoehen jeweils den Android versionCode.. Entwickler-Testversion: noch keine stabile Freigabe. Cloud-Berechtigungen muessen separat aktiviert werden."
 }
