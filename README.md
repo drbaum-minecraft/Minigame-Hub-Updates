@@ -4,7 +4,7 @@
 
 Aktuell: **0.8.0-beta.3 (Build 48)**. Dies ist eine signierte Beta für Android.
 
-Preview test APK (not stable): [Minigame-Hub-v0.9.11-rbeta.1.apk](https://raw.githubusercontent.com/drbaum-minecraft/Minigame-Hub-Updates/main/Minigame-Hub-v0.9.11-rbeta.1.apk)
+Preview test APK (not stable): [Minigame-Hub-v0.9.11-rbeta.2.apk](https://raw.githubusercontent.com/drbaum-minecraft/Minigame-Hub-Updates/main/Minigame-Hub-v0.9.11-rbeta.2.apk)
 
 - [Current signed APK manifest](latest.json)
 - [Updatefeed für ältere App-Versionen](version.json)

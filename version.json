@@ -1,7 +1,7 @@
 {
-    "version":  "0.9.11-rbeta.1",
-    "apk_url":  "https://raw.githubusercontent.com/drbaum-minecraft/Minigame-Hub-Updates/main/Minigame-Hub-v0.9.11-rbeta.1.apk",
-    "notes":  "TESTUPDATE v0.9.11-rbeta.1 (Build 52): Neues selbst am PC gerendertes 2D-Wuerfelgesicht als Android-App-Icon eingebaut: blaues Tic-Tac-Toe-O links, rotes X rechts und breites weisses Grinsen.; Sechs vorhandene Theme-Farben (Standard, Winter, Sommer, Halloween, Weihnachten, RGB) mit passenden adaptiven Vektor-Launcher-Icons erhalten. Android-Monochrom-Icon ebenfalls aktualisiert.; PC-Originale als bearbeitbare SVG und PNG mit reproduzierbarem Python-Renderer unter assets/icons/flat_xo_cube/ abgelegt.; Feste Basisversion 0.9.11; kuenftige Testupdates nutzen 0.9.11-rbeta.2, 0.9.11-rbeta.3 usw. und erhoehen jeweils den Android versionCode.. Entwickler-Testversion: noch keine stabile Freigabe. Cloud-Berechtigungen muessen separat aktiviert werden.",
-    "versionCode":  52,
-    "sha256":  "569927a8f560f7b7de926864206adeff304948d871de9f9941937b938e46a4de"
+    "version":  "0.9.11-rbeta.2",
+    "apk_url":  "https://raw.githubusercontent.com/drbaum-minecraft/Minigame-Hub-Updates/main/Minigame-Hub-v0.9.11-rbeta.2.apk",
+    "notes":  "TESTUPDATE v0.9.11-rbeta.2 (Build 53): Gemeinsamer Android-/Firestore-Namensfilter erkennt ausgewaehlte Leetspeak- und Unterstrich-Varianten, schwere Beleidigungen, NS-Bezuege und die angefragten Namen historischer Taeter; gueltige Alltagsnamen bleiben zulaessig.; Bereits bestehende gesperrte Namen werden wie zuvor zur einmaligen sofortigen Korrektur aufgefordert; Konten, XP und Profilinformationen bleiben erhalten.; Startseite: Spielkacheln verwenden die bisherige Glas-Tonung ohne aufwaendige Kopie der Hintergrundebene pro Kachel, Hoch-/Querformat-Layout unveraendert.; Memory-OpenGL: Frame-Wartezeit richtet sich nach bereits verbrauchter Renderzeit statt nach fixer zusaetzlicher Pause; reale 60-FPS-Konstanz bedarf noch eines Geraetetests.. Entwickler-Testversion: noch keine stabile Freigabe. Cloud-Berechtigungen muessen separat aktiviert werden.",
+    "versionCode":  53,
+    "sha256":  "adb54df5534c0b9b73092310fa08e38ff4d16c9c9a75e7504c5f64e0793410ab"
 }
