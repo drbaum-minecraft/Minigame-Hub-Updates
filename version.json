@@ -1,7 +1,7 @@
 {
-    "version":  "0.9.11-rbeta.9",
-    "apk_url":  "https://raw.githubusercontent.com/drbaum-minecraft/Minigame-Hub-Updates/main/Minigame-Hub-v0.9.11-rbeta.9.apk",
-    "notes":  "TESTUPDATE v0.9.11-rbeta.9 (Build 60): Schiffe versenken: neuer echter OpenGL-ES-2.0-Renderer mit Tiefenpuffer, perspektivischem Meer, volumetrischen Schiffsrümpfen, Aufbauten und Türmen; 2D/3D jederzeit umschaltbar, pro Spiel gespeichert.; Schiffe aufstellen: mit der Mitte antippen statt die Startzelle erraten; automatische Anpassung an den Spielfeldrand, Vorschau über Streichen, farbige Anzeige bei unmöglichen Positionen, Waagerecht/Senkrecht, Rückgängig und Zufallsflotte.; Seegefecht: animierte dreidimensionale Kanonenkugeln mit Flugbahn, Treffereffekt und Wasserspritzern. Vollständig getroffene sichtbare Schiffe sinken animiert.; Vier eigens synthetisierte, offline eingebundene Sounds für Abschuss, Wasser, Treffer und Versenken; berücksichtigen die globalen Sound-Einstellungen.. Entwickler-Testversion: noch keine stabile Freigabe. Cloud-Berechtigungen muessen separat aktiviert werden.",
-    "versionCode":  60,
-    "sha256":  "cf03ca6c3f1eb55fcbf2dc953c822430daa99f2282c6a62b422bbadc82f314d7"
+    "version":  "0.9.11-rbeta.10",
+    "apk_url":  "https://raw.githubusercontent.com/drbaum-minecraft/Minigame-Hub-Updates/main/Minigame-Hub-v0.9.11-rbeta.10.apk",
+    "notes":  "TESTUPDATE v0.9.11-rbeta.10 (Build 61): Neues zweistufiges Spielmodus-Menue: Spiel-Icon und Titel oben, grosse Auswahlkarten fuer Singleplayer/Lokal und Online, danach Bot oder mehrere Spieler auf einem Geraet. Nicht vorhandene Bot-Modi werden nicht angeboten.; Ping Pong: bestehende gleichzeitige Zweifinger-Steuerung fuer linke und rechte Schlaegerseite sowie drei unterschiedlich schnelle Bot-Stufen jetzt direkt im passenden Menue erreichbar.; Schiffe versenken: neue adaptive Schiffsliste links auf Tablets bzw. horizontal auf Handys; fuenf einzeln auswaehlbare Schiffe mit Platzierungsvorschau, Drehen, antippen zum Verschieben, Entfernen, Rueckgaengig und Zufallsaufbau. Bereits gesetzte Schiffe bleiben bis zur Bestaetigung editierbar.; Getrennte Ansichten fuer Phase 1 Aufbau, Phase 2 Angriff (nur Gegnerfeld) und Phase 3 Verteidigung (eigene Flotte mit Kanonenkugel). Bei lokalem Spiel bleibt die Sicht auf fremde Schiffe durch Weitergabe-Vorhang geschuetzt.. Entwickler-Testversion: noch keine stabile Freigabe. Cloud-Berechtigungen muessen separat aktiviert werden.",
+    "versionCode":  61,
+    "sha256":  "fd9b7f79980250ab67af1d7e194b15244b292c8725e6d54a0a16eb981bb61f2b"
 }
