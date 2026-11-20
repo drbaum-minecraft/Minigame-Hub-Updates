@@ -1,7 +1,7 @@
 {
-    "versionCode":  59,
-    "versionName":  "0.9.11-rbeta.8",
-    "apkUrl":  "https://raw.githubusercontent.com/drbaum-minecraft/Minigame-Hub-Updates/main/Minigame-Hub-v0.9.11-rbeta.8.apk",
-    "sha256":  "9861d06826ff723176cfe8c76cbc57df81ca1b8811b340556e7ce4d05ebc302d",
-    "notes":  "TESTUPDATE v0.9.11-rbeta.8 (Build 59): Siegerkugel: perspektivisch projizierte, rotierende Kugelstruktur mit Tiefenschattierung, die kontrolliert stoppt.; Gewinnerprofil erscheint nach der Drehung zentriert direkt auf der Kugel statt darunter. Name bleibt als kurze Beschriftung unter der Kugel.; Lobby und Rematch besitzen identisch gut lesbare Theme-Button-Farben mit explicithem Textkontrast.; Vier gewinnt zeigt nur den modalen Ergebnisdialog mit beiden Aktionen; keine zusaetzliche Leiste oder verdeckter Zweitbutton.. Entwickler-Testversion: noch keine stabile Freigabe. Cloud-Berechtigungen muessen separat aktiviert werden."
+    "versionCode":  60,
+    "versionName":  "0.9.11-rbeta.9",
+    "apkUrl":  "https://raw.githubusercontent.com/drbaum-minecraft/Minigame-Hub-Updates/main/Minigame-Hub-v0.9.11-rbeta.9.apk",
+    "sha256":  "cf03ca6c3f1eb55fcbf2dc953c822430daa99f2282c6a62b422bbadc82f314d7",
+    "notes":  "TESTUPDATE v0.9.11-rbeta.9 (Build 60): Schiffe versenken: neuer echter OpenGL-ES-2.0-Renderer mit Tiefenpuffer, perspektivischem Meer, volumetrischen Schiffsrümpfen, Aufbauten und Türmen; 2D/3D jederzeit umschaltbar, pro Spiel gespeichert.; Schiffe aufstellen: mit der Mitte antippen statt die Startzelle erraten; automatische Anpassung an den Spielfeldrand, Vorschau über Streichen, farbige Anzeige bei unmöglichen Positionen, Waagerecht/Senkrecht, Rückgängig und Zufallsflotte.; Seegefecht: animierte dreidimensionale Kanonenkugeln mit Flugbahn, Treffereffekt und Wasserspritzern. Vollständig getroffene sichtbare Schiffe sinken animiert.; Vier eigens synthetisierte, offline eingebundene Sounds für Abschuss, Wasser, Treffer und Versenken; berücksichtigen die globalen Sound-Einstellungen.. Entwickler-Testversion: noch keine stabile Freigabe. Cloud-Berechtigungen muessen separat aktiviert werden."
 }
