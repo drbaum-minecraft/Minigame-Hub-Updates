@@ -1,7 +1,7 @@
 {
-    "version":  "0.9.11-rbeta.6",
-    "apk_url":  "https://raw.githubusercontent.com/drbaum-minecraft/Minigame-Hub-Updates/main/Minigame-Hub-v0.9.11-rbeta.6.apk",
-    "notes":  "TESTUPDATE v0.9.11-rbeta.6 (Build 57): Sieben kostenlose Avatare (Fuchs, Katze, Eule, Panda, Krone, Stern, Geist) als neue native, detailreiche und deutlicher lesbare Vektorportraits; Bot-Avatar ebenfalls modernisiert. Keine Netzwerkverbindung oder Rasterdownloads für App-Avatare nötig.; Profil-Abzeichen verwenden eine größere zentrierte Zeichnung innerhalb des vorhandenen runden Rahmens, auch in Lobby, Onlinespielen, Freunden und Profileinstellungen. Profilseite mit größeren Vorschau-Avataren und stärker hervorgehobener Auswahl.; Google-Profilbild kann auf der Profilseite direkt wiederhergestellt werden. Der Google-Eintrag ist nur sichtbar, wenn ein gültiges Google-Profilfoto verfügbar ist; die Auswahl ist bei authentifizierten Accounts mit Cloud-Profil synchronisiert.; Wechsel auf einen App-Avatar deaktiviert das Google-Profilfoto auch im Cloud-Profil; die aktive Wahl bleibt nach erneuter Anmeldung erhalten. Bestehende Avatar-IDs und Account-/XP-/Statistikdaten werden nicht migriert oder überschrieben.. Entwickler-Testversion: noch keine stabile Freigabe. Cloud-Berechtigungen muessen separat aktiviert werden.",
-    "versionCode":  57,
-    "sha256":  "1ef7c24a7af4be48779b76e92783ff68d1df93cf3c705bc71b7f84265bf291ed"
+    "version":  "0.9.11-rbeta.7",
+    "apk_url":  "https://raw.githubusercontent.com/drbaum-minecraft/Minigame-Hub-Updates/main/Minigame-Hub-v0.9.11-rbeta.7.apk",
+    "notes":  "TESTUPDATE v0.9.11-rbeta.7 (Build 58): Vier gewinnt: freie 2D/3D-Umschaltung pro Spiel gespeichert, OpenGL-Spielsteine im Gitter statt davor, stabilere Vorderstreben und Tablet-Spielfeld links mit Spielerprofilen rechts.; Memory: 2D/3D umschaltbar, mit lokal gespeichertem Modus und begrenztem GPU-Fallback fuer schwaechere Geraete.; Vier gewinnt: endliche drehende Siegerkugel, danach Profil des Gewinners, auch Unentschieden behandelt.; Einheitliche Icon-Aktionen Lobby und Rematch nach jedem abgeschlossenen lokalen Spiel.. Entwickler-Testversion: noch keine stabile Freigabe. Cloud-Berechtigungen muessen separat aktiviert werden.",
+    "versionCode":  58,
+    "sha256":  "897c99a012702eee1918f0f7fecb5da7c08397a8acd68eed0680aee175f863f6"
 }
