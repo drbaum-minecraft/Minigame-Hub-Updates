@@ -4,7 +4,7 @@
 
 Aktuelle Testversion: **0.9.11-rbeta.15 (Build 66)**. Nicht als stabile Store-Version freigegeben.
 
-Preview test APK (not stable): [Minigames-Together-v0.9.11-rbeta.15.apk](https://raw.githubusercontent.com/drbaum-minecraft/Minigame-Hub-Updates/main/Minigames-Together-v0.9.11-rbeta.15.apk)
+Preview test APK (not stable): [Minigames-Together-v0.9.11-rbeta.16.apk](https://raw.githubusercontent.com/drbaum-minecraft/Minigame-Hub-Updates/main/Minigames-Together-v0.9.11-rbeta.16.apk)
 
 - [Current signed APK manifest](latest.json)
 - [Updatefeed für ältere App-Versionen](version.json)
