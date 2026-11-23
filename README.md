@@ -1,10 +1,10 @@
-# Minigame Hub für Android
+# Minigames Together fÃ¼r Android
 
-**[Neueste APK herunterladen](https://raw.githubusercontent.com/drbaum-minecraft/Minigame-Hub-Updates/main/Minigame-Hub-v0.8.0-beta.3.apk)**
+**[Aktuelle Minigames Together Test-APK herunterladen](https://raw.githubusercontent.com/drbaum-minecraft/Minigame-Hub-Updates/main/Minigames-Together-v0.9.11-rbeta.15.apk)**
 
-Aktuell: **0.8.0-beta.3 (Build 48)**. Dies ist eine signierte Beta für Android.
+Aktuelle Testversion: **0.9.11-rbeta.15 (Build 66)**. Nicht als stabile Store-Version freigegeben.
 
-Preview test APK (not stable): [Minigame-Hub-v0.9.11-rbeta.14.apk](https://raw.githubusercontent.com/drbaum-minecraft/Minigame-Hub-Updates/main/Minigame-Hub-v0.9.11-rbeta.14.apk)
+Preview test APK (not stable): [Minigames-Together-v0.9.11-rbeta.15.apk](https://raw.githubusercontent.com/drbaum-minecraft/Minigame-Hub-Updates/main/Minigames-Together-v0.9.11-rbeta.15.apk)
 
 - [Current signed APK manifest](latest.json)
 - [Updatefeed für ältere App-Versionen](version.json)
