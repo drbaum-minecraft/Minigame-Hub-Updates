@@ -4,4 +4,4 @@ Latest signed APK: [Minigames-Together-v0.10.8.apk](https://raw.githubuserconten
 
 - [Current signed APK manifest](latest.json)
 - [Older Android client manifest](version.json)
-- Older APKs remain available and the source repository stays private.
+- Only the current APK is listed. Previous versions remain in Git history; the source repository stays private.
