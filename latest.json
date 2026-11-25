@@ -1,7 +1,7 @@
 {
-    "versionCode":  73,
-    "versionName":  "0.10.3",
-    "apkUrl":  "https://raw.githubusercontent.com/drbaum-minecraft/Minigame-Hub-Updates/main/Minigames-Together-v0.10.3.apk",
-    "sha256":  "36a72a7c45d9399bd11d2aa7b90fa4e6663da59c985fe055f6a98c9b304db351",
-    "notes":  "TESTUPDATE v0.10.3 (Build 73): Schnelltippen 2693 Woerter, Buchstabensalat 1343, Wahr oder Falsch 150 Fragen, Emoji Quiz 218, Galgenmaennchen 377, Stadt Land Fluss 1183 Begriffe. Inhaltsrotation, Multiplayer-Verbindungsfixes, Vier gewinnt 2D/3D und neue Farb-Rausch-Fragen. Memory unveraendert. Beide Online-Spieler sollten aktualisieren; Test ueber getrennte Netzwerke noch offen."
+    "versionCode":  74,
+    "versionName":  "0.10.4",
+    "apkUrl":  "https://raw.githubusercontent.com/drbaum-minecraft/Minigame-Hub-Updates/main/Minigames-Together-v0.10.4.apk",
+    "sha256":  "6ea5aef742e67ecf78b529d48d3ac69a5b28bbc0d52f11e1b5e0ef842e7823b5",
+    "notes":  "TESTUPDATE v0.10.4 (Build 74): Multiplayer-Verbindungsaufbau und Wiederverbindung verbessert. Lokaler Relay-Test bestanden. WICHTIG: Oeffentlicher TURN-Dienst noch nicht aktiviert; manche Internetverbindungen koennen weiterhin scheitern. Beide Spieler aktualisieren. Keine neuen Spielinhalte."
 }
