@@ -1,7 +1,7 @@
 {
-    "version":  "0.10.6",
-    "apk_url":  "https://raw.githubusercontent.com/drbaum-minecraft/Minigame-Hub-Updates/main/Minigames-Together-v0.10.6.apk",
-    "notes":  "TESTUPDATE v0.10.6 (Build 76): Ludo-Siegerfiguren leuchten, springen und machen einen 360-Grad-Backflip. Lobby/Rematch erst nach der Animation. 13 individuelle Soundeffekte mit Lautstaerkeeinstellung. Emulator-Tests bestanden; realer Klang und vollstaendiges Online-Match noch nicht abgenommen.",
-    "versionCode":  76,
-    "sha256":  "429525d17dd7d6128fd4e4ee0692eda0e98a99877c7b6c09092ae8f378f80fc1"
+    "version":  "0.10.7",
+    "apk_url":  "https://raw.githubusercontent.com/drbaum-minecraft/Minigame-Hub-Updates/main/Minigames-Together-v0.10.7.apk",
+    "notes":  "TESTUPDATE 0.10.7 (Build 77): Automatische Ersatzverbindung fuer schwierige Netzwerke, direkte P2P-Verbindung weiterhin bevorzugt. Verbesserte Verbindungsfehlermeldung. Praxistest in unterschiedlichen Netzwerken steht aus.",
+    "versionCode":  77,
+    "sha256":  "7d928861be44ebe8bd10a7a3f4cdc33c3f29d25582636193b349a0945a676f62"
 }
