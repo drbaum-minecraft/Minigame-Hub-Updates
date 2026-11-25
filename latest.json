@@ -1,7 +1,7 @@
 {
-    "versionCode":  77,
-    "versionName":  "0.10.7",
-    "apkUrl":  "https://raw.githubusercontent.com/drbaum-minecraft/Minigame-Hub-Updates/main/Minigames-Together-v0.10.7.apk",
-    "sha256":  "7d928861be44ebe8bd10a7a3f4cdc33c3f29d25582636193b349a0945a676f62",
-    "notes":  "TESTUPDATE 0.10.7 (Build 77): Automatische Ersatzverbindung fuer schwierige Netzwerke, direkte P2P-Verbindung weiterhin bevorzugt. Verbesserte Verbindungsfehlermeldung. Praxistest in unterschiedlichen Netzwerken steht aus."
+    "versionCode":  78,
+    "versionName":  "0.10.8",
+    "apkUrl":  "https://raw.githubusercontent.com/drbaum-minecraft/Minigame-Hub-Updates/main/Minigames-Together-v0.10.8.apk",
+    "sha256":  "b00687adcc7cf8808a8c498053299f273dfcb7a01c9a8ea5bc48ebcb06b2d56c",
+    "notes":  "TESTUPDATE 0.10.8 (Build 78): Ludo mit realistischem 3D-Wuerfel, leiseren Sounds, korrekter Zugreihenfolge, korrigierten Wuerfelversuchen und farbigem Eckleuchten beim eigenen Zug."
 }
