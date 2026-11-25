@@ -1,7 +1,7 @@
 {
-    "versionCode":  70,
-    "versionName":  "0.10.0",
-    "apkUrl":  "https://raw.githubusercontent.com/drbaum-minecraft/Minigame-Hub-Updates/main/Minigames-Together-v0.10.0.apk",
-    "sha256":  "763ada7ff3ce85731b372b8d27d9eea95715802a03d16b07120581b7718f33a5",
-    "notes":  "TESTUPDATE v0.10.0 (Build 70): Neue Spieleinstellungen mit Sound und 2D/3D-Regler; Rematch mit Bot-Schwierigkeitswahl und farbigen Bot-Namen; Memory-Brett und Gewinneranzeige ueberarbeitet; kompakteres Ping Pong, neue Startreihenfolge und Icons. Noch keine stabile Store-Freigabe; Online- und weitere Spieltests offen."
+    "versionCode":  71,
+    "versionName":  "0.10.1",
+    "apkUrl":  "https://raw.githubusercontent.com/drbaum-minecraft/Minigame-Hub-Updates/main/Minigames-Together-v0.10.1.apk",
+    "sha256":  "0f87eae8fae7d382f72574123865339dde214b410be36f1961222c9da8c9691d",
+    "notes":  "TESTUPDATE v0.10.1 (Build 71): Schnelltippen mit staerkeren Bots und begrenztem Aufholbonus; fuenf neue Bot-Designs und farbige Schwierigkeitswahl; Galgenmaennchen mit Tipp bei letzter Chance und waehlbarer Reihenfolge; getrennt gespeicherte Offline-/Online-Spielregeln. Beide Online-Spieler sollten aktualisieren. Online-Abnahme noch offen."
 }
