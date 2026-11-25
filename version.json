@@ -1,7 +1,7 @@
 {
-    "version":  "0.10.1",
-    "apk_url":  "https://raw.githubusercontent.com/drbaum-minecraft/Minigame-Hub-Updates/main/Minigames-Together-v0.10.1.apk",
-    "notes":  "TESTUPDATE v0.10.1 (Build 71): Schnelltippen mit staerkeren Bots und begrenztem Aufholbonus; fuenf neue Bot-Designs und farbige Schwierigkeitswahl; Galgenmaennchen mit Tipp bei letzter Chance und waehlbarer Reihenfolge; getrennt gespeicherte Offline-/Online-Spielregeln. Beide Online-Spieler sollten aktualisieren. Online-Abnahme noch offen.",
-    "versionCode":  71,
-    "sha256":  "0f87eae8fae7d382f72574123865339dde214b410be36f1961222c9da8c9691d"
+    "version":  "0.10.3",
+    "apk_url":  "https://raw.githubusercontent.com/drbaum-minecraft/Minigame-Hub-Updates/main/Minigames-Together-v0.10.3.apk",
+    "notes":  "TESTUPDATE v0.10.3 (Build 73): Schnelltippen 2693 Woerter, Buchstabensalat 1343, Wahr oder Falsch 150 Fragen, Emoji Quiz 218, Galgenmaennchen 377, Stadt Land Fluss 1183 Begriffe. Inhaltsrotation, Multiplayer-Verbindungsfixes, Vier gewinnt 2D/3D und neue Farb-Rausch-Fragen. Memory unveraendert. Beide Online-Spieler sollten aktualisieren; Test ueber getrennte Netzwerke noch offen.",
+    "versionCode":  73,
+    "sha256":  "36a72a7c45d9399bd11d2aa7b90fa4e6663da59c985fe055f6a98c9b304db351"
 }
