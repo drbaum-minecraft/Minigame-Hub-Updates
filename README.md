@@ -1,8 +1,8 @@
 # Minigames Together - Android Updates
 
-**[Aktuelle Minigames Together Test-APK herunterladen](https://raw.githubusercontent.com/drbaum-minecraft/Minigame-Hub-Updates/main/Minigames-Together-v0.10.5.apk)**
+**[Aktuelle Minigames Together Test-APK herunterladen](https://raw.githubusercontent.com/drbaum-minecraft/Minigame-Hub-Updates/main/Minigames-Together-v0.10.6.apk)**
 
-Aktuelle Testversion: **0.10.5 (Build 75)**. Ludo mit 3D-Brett und Animationen. Nicht als stabile Store-Version freigegeben; oeffentlicher TURN-Dienst noch nicht aktiviert.
+Aktuelle Testversion: **0.10.6 (Build 76)**. Ludo mit Sieg-Backflip und 13 Soundeffekten. Nicht als stabile Store-Version freigegeben; oeffentlicher TURN-Dienst noch nicht aktiviert.
 
 - [Current signed APK manifest](latest.json)
 - [Updatefeed fuer aeltere App-Versionen](version.json)
