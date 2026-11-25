@@ -1,7 +1,7 @@
 {
-    "version":  "0.10.4",
-    "apk_url":  "https://raw.githubusercontent.com/drbaum-minecraft/Minigame-Hub-Updates/main/Minigames-Together-v0.10.4.apk",
-    "notes":  "TESTUPDATE v0.10.4 (Build 74): Multiplayer-Verbindungsaufbau und Wiederverbindung verbessert. Lokaler Relay-Test bestanden. WICHTIG: Oeffentlicher TURN-Dienst noch nicht aktiviert; manche Internetverbindungen koennen weiterhin scheitern. Beide Spieler aktualisieren. Keine neuen Spielinhalte.",
-    "versionCode":  74,
-    "sha256":  "6ea5aef742e67ecf78b529d48d3ac69a5b28bbc0d52f11e1b5e0ef842e7823b5"
+    "version":  "0.10.5",
+    "apk_url":  "https://raw.githubusercontent.com/drbaum-minecraft/Minigame-Hub-Updates/main/Minigames-Together-v0.10.5.apk",
+    "notes":  "TESTUPDATE v0.10.5 (Build 75): Mensch aergere dich nicht jetzt mit echtem 3D-Brett, 3D-Figuren und Spawn-, Einsetz-, Zieh- und Schlaganimationen. Responsive Ansicht, Farbauswahl, zufaelliger Startspieler und individuelle Normal-/Pro-Bots. Emulator-Tests bestanden. Beide Online-Spieler aktualisieren; Ludo-Online-Praxistest offen, oeffentlicher TURN-Dienst weiterhin nicht aktiviert.",
+    "versionCode":  75,
+    "sha256":  "c0ed84b6d387f5b5c761a0fc0d59a29d8ae8dc718c20c8a0b03439c442eafca9"
 }
