@@ -1,7 +1,7 @@
 {
-    "versionCode":  85,
-    "versionName":  "0.13.3",
-    "apkUrl":  "https://raw.githubusercontent.com/drbaum-minecraft/Minigame-Hub-Updates/main/Minigames-Together-v0.13.3.apk",
-    "sha256":  "fc92a6d7afdd3b8aba348021dc3af2f2d3f5fe7da412ac39fa3e69bc7f069811",
-    "notes":  "UNO mit echtem OpenGL-3D-Tisch, neuen Karten und Normal-/Pro-Bot-Designs. Lobby-Einladungen repariert, Firebase-Regeln aktualisiert, Einstellungen kompakt, Profilbearbeitung im Profil und sofortiger Kontoprofil-Cache."
+    "versionCode":  86,
+    "versionName":  "0.13.4",
+    "apkUrl":  "https://raw.githubusercontent.com/drbaum-minecraft/Minigame-Hub-Updates/main/Minigames-Together-v0.13.4.apk",
+    "sha256":  "ee21852e18c193ccf08043bc8b0cff70dc0ccfa4d7b97bf4a2321bc06ca71900",
+    "notes":  "Fluessiges Scrollen auf Start. Mensch aerger dich nicht: neue Neon-3D-Figuren, markierte spielbare Figuren, hervorgehobener aktiver Spieler, klassische und Neon-Wuerfel-Skins, Wuerfelkollisionen, neue Lauf-, Sprung-, Schlag- und Feuerwerk-Siegesanimationen mit Sounds."
 }
