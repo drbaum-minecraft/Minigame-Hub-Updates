@@ -1,7 +1,7 @@
 {
-    "versionCode":  86,
-    "versionName":  "0.13.4",
-    "apkUrl":  "https://raw.githubusercontent.com/drbaum-minecraft/Minigame-Hub-Updates/main/Minigames-Together-v0.13.4.apk",
-    "sha256":  "ee21852e18c193ccf08043bc8b0cff70dc0ccfa4d7b97bf4a2321bc06ca71900",
-    "notes":  "Fluessiges Scrollen auf Start. Mensch aerger dich nicht: neue Neon-3D-Figuren, markierte spielbare Figuren, hervorgehobener aktiver Spieler, klassische und Neon-Wuerfel-Skins, Wuerfelkollisionen, neue Lauf-, Sprung-, Schlag- und Feuerwerk-Siegesanimationen mit Sounds."
+    "versionCode":  87,
+    "versionName":  "0.13.5",
+    "apkUrl":  "https://raw.githubusercontent.com/drbaum-minecraft/Minigame-Hub-Updates/main/Minigames-Together-v0.13.5.apk",
+    "sha256":  "3f0d67baa69decf2952fcb9cabdad63f66d30bbe683155e9b1f21335591feb80",
+    "notes":  "Memory: 20 neue Tierillustrationen, groessere Karten und optimiertes Spielfeld. Verbesserte Hoch- und Querformatdarstellung, gesperrte Tab-Gesten waehrend Partien, neue Einladungsanimation und Aufgabeanzeige mit automatischer Lobby-Rueckkehr. Startseitenabstand korrigiert."
 }

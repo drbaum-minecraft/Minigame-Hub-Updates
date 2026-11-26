@@ -1,6 +1,6 @@
 # Minigames Together - Android Updates
 
-Latest signed APK: [Minigames-Together-v0.13.4.apk](https://raw.githubusercontent.com/drbaum-minecraft/Minigame-Hub-Updates/main/Minigames-Together-v0.13.4.apk)
+Latest signed APK: [Minigames-Together-v0.13.5.apk](https://raw.githubusercontent.com/drbaum-minecraft/Minigame-Hub-Updates/main/Minigames-Together-v0.13.5.apk)
 
 - [Current signed APK manifest](latest.json)
 - [Older Android client manifest](version.json)
