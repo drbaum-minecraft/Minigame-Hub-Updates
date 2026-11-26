@@ -1,7 +1,7 @@
 {
-    "versionCode":  81,
-    "versionName":  "0.12.0",
-    "apkUrl":  "https://raw.githubusercontent.com/drbaum-minecraft/Minigame-Hub-Updates/main/Minigames-Together-v0.12.0.apk",
-    "sha256":  "2dcfd50e0e1d2716f3564cae94e6ffaf2232c64ec7a6316424c5a46c83141268",
-    "notes":  "Minigames Together 0.12.0 (Build 81): Ludo mit korrigierter Laufrichtung, Startfeldregel und Spielstandspeicherung; Memory mit individuellen Bots und Team-Punkten; responsive Ergebnis- und Aufgeben-Dialoge; Schiffe versenken mit vier Flottengroessen, Minikarte, neuen Animationen und Sounds sowie Zusatzschuss bei Treffer; Wahr oder Falsch mit Fragen-Schwierigkeiten, Tempo-Punkten, Doppelpunkt-Runden und animierter Aufloesung. Testupdate."
+    "versionCode":  82,
+    "versionName":  "0.13.0",
+    "apkUrl":  "https://raw.githubusercontent.com/drbaum-minecraft/Minigame-Hub-Updates/main/Minigames-Together-v0.13.0.apk",
+    "sha256":  "f5926d0b69b827a48dcec37895ede79b21e914d15171bfdfbbcd5e73c9690b0a",
+    "notes":  "Minigames Together 0.13.0 (Build 82): Schiffe versenken mit Platzierungsvorschau, Kamerasperre, Zielvisier und zwei Minikarten; Memory mit korrigierten Pro-Bot-Portraets; einheitlicher Designbereich und temporaer alle Designs frei, Neon-Brett und Neon-Figuren fuer Mensch aergere dich nicht mit Host-Synchronisierung; Stadt, Land, Fluss mit sieben Kategorien, faireren Bots, toleranter Rechtschreibpruefung, Buchstabenroulette und animierter Auswertung. Testupdate."
 }
