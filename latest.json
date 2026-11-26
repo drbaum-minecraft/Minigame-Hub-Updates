@@ -1,7 +1,7 @@
 {
-    "versionCode":  80,
-    "versionName":  "0.11.0",
-    "apkUrl":  "https://raw.githubusercontent.com/drbaum-minecraft/Minigame-Hub-Updates/main/Minigames-Together-v0.11.0.apk",
-    "sha256":  "526bd409f7f44e7e4e7a5c09d5282e3f1a12459b96fcf3d3b039c1be2431e923",
-    "notes":  "Minigames Together 0.11.0 (Build 80): Memory mit vier Brettgroessen, 20 Tierpaaren und 2-vs-2, neue Heisse-Kartoffel-Arena mit Hitzestufen und Animationen, verbesserte Ludo-, Hangman-, Pong- und Tic-Tac-Toe-Onlinefunktionen, kompaktere Einstellungen und fluessigerer Spielekatalog. Testupdate."
+    "versionCode":  81,
+    "versionName":  "0.12.0",
+    "apkUrl":  "https://raw.githubusercontent.com/drbaum-minecraft/Minigame-Hub-Updates/main/Minigames-Together-v0.12.0.apk",
+    "sha256":  "2dcfd50e0e1d2716f3564cae94e6ffaf2232c64ec7a6316424c5a46c83141268",
+    "notes":  "Minigames Together 0.12.0 (Build 81): Ludo mit korrigierter Laufrichtung, Startfeldregel und Spielstandspeicherung; Memory mit individuellen Bots und Team-Punkten; responsive Ergebnis- und Aufgeben-Dialoge; Schiffe versenken mit vier Flottengroessen, Minikarte, neuen Animationen und Sounds sowie Zusatzschuss bei Treffer; Wahr oder Falsch mit Fragen-Schwierigkeiten, Tempo-Punkten, Doppelpunkt-Runden und animierter Aufloesung. Testupdate."
 }
