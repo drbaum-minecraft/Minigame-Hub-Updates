@@ -1,7 +1,7 @@
 {
-    "version":  "0.13.5",
-    "apk_url":  "https://raw.githubusercontent.com/drbaum-minecraft/Minigame-Hub-Updates/main/Minigames-Together-v0.13.5.apk",
-    "notes":  "Memory: 20 neue Tierillustrationen, groessere Karten und optimiertes Spielfeld. Verbesserte Hoch- und Querformatdarstellung, gesperrte Tab-Gesten waehrend Partien, neue Einladungsanimation und Aufgabeanzeige mit automatischer Lobby-Rueckkehr. Startseitenabstand korrigiert.",
-    "versionCode":  87,
-    "sha256":  "3f0d67baa69decf2952fcb9cabdad63f66d30bbe683155e9b1f21335591feb80"
+    "version":  "0.13.6",
+    "apk_url":  "https://raw.githubusercontent.com/drbaum-minecraft/Minigame-Hub-Updates/main/Minigames-Together-v0.13.6.apk",
+    "notes":  "Einheitliches neues App-Icon und Splashscreen. Themes wechseln nur noch das App-Design. Ping Pong Online: direkte Steuerung, bessere Randtreffer, fluessigere Ballbewegung und Latenzausgleich.",
+    "versionCode":  88,
+    "sha256":  "70df8b2e4099b828e4ccabbaacde3b4517eab1c6800d7f05d1883e5ee240f8e1"
 }
