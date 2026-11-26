@@ -1,7 +1,7 @@
 {
-    "versionCode":  84,
-    "versionName":  "0.13.2",
-    "apkUrl":  "https://raw.githubusercontent.com/drbaum-minecraft/Minigame-Hub-Updates/main/Minigames-Together-v0.13.2.apk",
-    "sha256":  "6d0c0d09d9855d06183dbb2ffa4d7cf84a863a6f753f76c451953db5f98f4860",
-    "notes":  "Minigames Together 0.13.2: UNO mit perspektivischem 3D-Tisch, Kartenstapeln, sichtbaren Kartenruecken der Gegner, Zieh- und Legeanimationen, Strafkarten-Effekten und neuen Sounds. Normal- und Pro-Bots einzeln einstellbar; automatische Strafkarten bei fehlender Verlaengerung. Doppelte Lobby- und Rematch-Aktionen bereinigt. Testupdate."
+    "versionCode":  85,
+    "versionName":  "0.13.3",
+    "apkUrl":  "https://raw.githubusercontent.com/drbaum-minecraft/Minigame-Hub-Updates/main/Minigames-Together-v0.13.3.apk",
+    "sha256":  "fc92a6d7afdd3b8aba348021dc3af2f2d3f5fe7da412ac39fa3e69bc7f069811",
+    "notes":  "UNO mit echtem OpenGL-3D-Tisch, neuen Karten und Normal-/Pro-Bot-Designs. Lobby-Einladungen repariert, Firebase-Regeln aktualisiert, Einstellungen kompakt, Profilbearbeitung im Profil und sofortiger Kontoprofil-Cache."
 }
