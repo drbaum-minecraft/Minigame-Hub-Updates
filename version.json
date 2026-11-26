@@ -1,7 +1,7 @@
 {
-    "version":  "0.13.1",
-    "apk_url":  "https://raw.githubusercontent.com/drbaum-minecraft/Minigame-Hub-Updates/main/Minigames-Together-v0.13.1.apk",
-    "notes":  "Neues Kartenspiel UNO (Entwicklungsname): 108 Karten, 2-4 Spieler, Bot-Modus, lokaler und Online-Multiplayer, stapelbare Strafkarten, eigene Kartengrafiken und Sounds. Testupdate: Online-Wiederverbindung und einige Animationen noch nicht abschliessend abgenommen.",
-    "versionCode":  83,
-    "sha256":  "6fda5a21bfdd26b3ab081459d9a87db1fb50ddea5d987526f39d54db1c658eba"
+    "version":  "0.13.2",
+    "apk_url":  "https://raw.githubusercontent.com/drbaum-minecraft/Minigame-Hub-Updates/main/Minigames-Together-v0.13.2.apk",
+    "notes":  "Minigames Together 0.13.2: UNO mit perspektivischem 3D-Tisch, Kartenstapeln, sichtbaren Kartenruecken der Gegner, Zieh- und Legeanimationen, Strafkarten-Effekten und neuen Sounds. Normal- und Pro-Bots einzeln einstellbar; automatische Strafkarten bei fehlender Verlaengerung. Doppelte Lobby- und Rematch-Aktionen bereinigt. Testupdate.",
+    "versionCode":  84,
+    "sha256":  "6d0c0d09d9855d06183dbb2ffa4d7cf84a863a6f753f76c451953db5f98f4860"
 }
