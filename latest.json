@@ -1,7 +1,7 @@
 {
-    "versionCode":  90,
-    "versionName":  "0.13.8",
-    "apkUrl":  "https://raw.githubusercontent.com/drbaum-minecraft/Minigame-Hub-Updates/main/Minigames-Together-v0.13.8.apk",
-    "sha256":  "db552c46fc8367f458d70ded0bd90ce88d40db3964a3b140f02238d9c5bba2d9",
-    "notes":  "UNO: langsamere und weichere Kartenanimationen, laengere Bot-Denkpausen, automatisch sortierte Handkarten, interaktive Wunschkarten und Platzierungen fuer drei bis acht Spieler. Online-Ranglisten mit aktueller Version auf beiden Geraeten."
+    "versionCode":  91,
+    "versionName":  "0.13.9",
+    "apkUrl":  "https://raw.githubusercontent.com/drbaum-minecraft/Minigame-Hub-Updates/main/Minigames-Together-v0.13.9.apk",
+    "sha256":  "07dddc8f9868159d782c61cd39e7efe49e2a0c952357bf56dd5a8580eb13fa6c",
+    "notes":  "Gemeinsame Spiel-Kopfzeile mit Icon und Minigames Together. UNO: Tisch und Karten ueberarbeitet, eigene Spielzuege hervorgehoben, Richtungspfeil kurz eingeblendet, grosse Farbfelder und vollstaendige Ergebnisrangliste."
 }
