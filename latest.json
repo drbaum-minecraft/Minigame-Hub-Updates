@@ -1,7 +1,7 @@
 {
-    "versionCode":  89,
-    "versionName":  "0.13.7",
-    "apkUrl":  "https://raw.githubusercontent.com/drbaum-minecraft/Minigame-Hub-Updates/main/Minigames-Together-v0.13.7.apk",
-    "sha256":  "4b2d2a796a58a970165468066329dc59d22fc169c5cda4f1c424d7adb89a75bc",
-    "notes":  "UNO: Vollbild-3D-Tisch, dynamische Sitzplaetze, animierte Kartenverteilung und Strafkarten, aufgeraeumte Oberflaeche und bis zu acht Teilnehmer. Online: zwei menschliche Spieler und bis zu sechs Bots."
+    "versionCode":  90,
+    "versionName":  "0.13.8",
+    "apkUrl":  "https://raw.githubusercontent.com/drbaum-minecraft/Minigame-Hub-Updates/main/Minigames-Together-v0.13.8.apk",
+    "sha256":  "db552c46fc8367f458d70ded0bd90ce88d40db3964a3b140f02238d9c5bba2d9",
+    "notes":  "UNO: langsamere und weichere Kartenanimationen, laengere Bot-Denkpausen, automatisch sortierte Handkarten, interaktive Wunschkarten und Platzierungen fuer drei bis acht Spieler. Online-Ranglisten mit aktueller Version auf beiden Geraeten."
 }
