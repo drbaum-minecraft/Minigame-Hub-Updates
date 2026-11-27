@@ -1,7 +1,7 @@
 {
-    "versionCode":  88,
-    "versionName":  "0.13.6",
-    "apkUrl":  "https://raw.githubusercontent.com/drbaum-minecraft/Minigame-Hub-Updates/main/Minigames-Together-v0.13.6.apk",
-    "sha256":  "70df8b2e4099b828e4ccabbaacde3b4517eab1c6800d7f05d1883e5ee240f8e1",
-    "notes":  "Einheitliches neues App-Icon und Splashscreen. Themes wechseln nur noch das App-Design. Ping Pong Online: direkte Steuerung, bessere Randtreffer, fluessigere Ballbewegung und Latenzausgleich."
+    "versionCode":  89,
+    "versionName":  "0.13.7",
+    "apkUrl":  "https://raw.githubusercontent.com/drbaum-minecraft/Minigame-Hub-Updates/main/Minigames-Together-v0.13.7.apk",
+    "sha256":  "4b2d2a796a58a970165468066329dc59d22fc169c5cda4f1c424d7adb89a75bc",
+    "notes":  "UNO: Vollbild-3D-Tisch, dynamische Sitzplaetze, animierte Kartenverteilung und Strafkarten, aufgeraeumte Oberflaeche und bis zu acht Teilnehmer. Online: zwei menschliche Spieler und bis zu sechs Bots."
 }
