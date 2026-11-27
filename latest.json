@@ -1,7 +1,7 @@
 {
-    "versionCode":  92,
-    "versionName":  "0.13.10",
-    "apkUrl":  "https://raw.githubusercontent.com/drbaum-minecraft/Minigame-Hub-Updates/main/Minigames-Together-v0.13.10.apk",
-    "sha256":  "9ff94584bf5c43d3fc2b6c94053e6abfc82bf1367d3aa7d99b97e73ddac01f3a",
-    "notes":  "UNO: vollstaendig sichtbare Handkarten mit adaptiven Reihen, Kartenfluege an echten Kartenpositionen und Stapeln, weichere Zieh- und Legeanimationen, ueberfluessige Farbanzeige entfernt."
+    "versionCode":  93,
+    "versionName":  "0.13.11",
+    "apkUrl":  "https://raw.githubusercontent.com/drbaum-minecraft/Minigame-Hub-Updates/main/Minigames-Together-v0.13.11.apk",
+    "sha256":  "0d332a415d60262504d4f714844204b76705cdb4c1a02fa16383bc2d8014ce4d",
+    "notes":  "UNO Premium: kompakte Handkarten, spielbare Karten hervorgehoben, groessere Stapel, verbesserte 3D-Gegnerhaende, zufaelliger Start, Rematch mit Verlierer, drei optionale Spielregeln inkl. Legen nach Ziehen und Doppelkarten. Emulator-Tests fuer Smartphone und Tablet."
 }
