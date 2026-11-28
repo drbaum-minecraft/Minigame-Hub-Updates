@@ -1,7 +1,7 @@
 {
-    "version":  "0.14.1",
-    "apk_url":  "https://raw.githubusercontent.com/drbaum-minecraft/Minigame-Hub-Updates/main/Minigames-Together-v0.14.1.apk",
-    "notes":  "Ping Pong: bessere Steuerung und Ballgeschwindigkeit. Galgenmaennchen: Singleplayer, Lokal und Online, bessere Buchstabenanzeige. Spieluebergreifender Inhaltsverlauf, Online-Verbindungsstabilitaet und weitere Fehlerkorrekturen.",
-    "versionCode":  95,
-    "sha256":  "a23e4a8ab3a569036e25658b970f6d1b6a4d0bc16b7aec2933770846817202b8"
+    "version":  "0.14.2",
+    "apk_url":  "https://raw.githubusercontent.com/drbaum-minecraft/Minigame-Hub-Updates/main/Minigames-Together-v0.14.2.apk",
+    "notes":  "0.14.2 (Build 96): UNO Kartenreihen; Vier gewinnt 3D-Rematch und Siegesanimation; Heisse Kartoffel Bot-Tempo; Zahlen-Duell Normal/Schnell/Instant; Emoji Quiz Tempo-Punkte; Freundschaftsanfragen, Schnelltippen und Online-Einstellungen verbessert. Testupdate.",
+    "versionCode":  96,
+    "sha256":  "05cdc458141ac7953d61e700e24bea33521a6626a433e4174a6427abfcfe4cfd"
 }
